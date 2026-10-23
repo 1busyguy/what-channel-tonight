@@ -56,3 +56,5 @@ LEAGUES:
     noun: race
 # Affiliate network site verification (Impact). Rendered as <meta name='impact-site-verification' value='...'> in every <head>.
 IMPACT_SITE_VERIFICATION: "ae402623-f560-4cb3-9ac8-33e0edce495b"
+# IndexNow key (Bing/Yandex/Seznam/Naver...). Published at /<key>.txt by build.py; used by indexnow.py.
+INDEXNOW_KEY: "3063a41c910eeb3ac22bccf7239260c6"

@@ -442,6 +442,8 @@ def build(data):
     open(os.path.join(TMP, "robots.txt"), "w").write(
         f"User-agent: *\nDisallow: {url('/go/')}\nAllow: /\n\nSitemap: {abs_url('/sitemap.xml')}\n")
     open(os.path.join(TMP, ".nojekyll"), "w").write("")
+    if CFG.get("INDEXNOW_KEY"):
+        open(os.path.join(TMP, CFG["INDEXNOW_KEY"] + ".txt"), "w").write(CFG["INDEXNOW_KEY"])
     if CFG.get("CNAME"):
         open(os.path.join(TMP, "CNAME"), "w").write(CFG["CNAME"] + "\n")
     return team_count
