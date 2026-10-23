@@ -28,6 +28,10 @@ Safety rules:
 
 You can also set `SITE_URL` and `GOATCOUNTER_CODE` as GitHub repo variables. The workflow passes them to the build.
 
+## Search engine pings (IndexNow)
+
+After each deploy, the workflow runs `python indexnow.py --wait`. It submits new or changed pages (compared by content hash, ignoring build timestamps) to IndexNow, which is used by Bing, Yandex and others. The key lives in `config.yaml` (`INDEXNOW_KEY`), and the build publishes it as `/<key>.txt`. See [INDEXNOW.md](INDEXNOW.md). To submit by hand: `python indexnow.py --urls <url>` or `python indexnow.py --all`.
+
 ## Click tracking
 
 Every affiliate link points at `/go/<service>/` with `rel="sponsored nofollow"`. These are noindex redirect pages. When GoatCounter is enabled they count the visit and then redirect, so each `/go/...` path shows up as a click count.

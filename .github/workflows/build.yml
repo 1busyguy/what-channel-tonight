@@ -55,3 +55,9 @@ jobs:
           git add -A
           git commit -q -m "Site build $(date -u +%Y-%m-%dT%H:%MZ)"
           git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" gh-pages
+
+      # Tell Bing/Yandex/etc. (IndexNow) about new or changed pages once GitHub Pages is serving this build.
+      - name: Submit new/changed URLs to IndexNow
+        if: success()
+        continue-on-error: true
+        run: python indexnow.py --wait
