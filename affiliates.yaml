@@ -1,0 +1,103 @@
+# Streaming services. `url` is what /go/<key>/ redirects to.
+# Swap in real affiliate/referral links here once programs approve us; nothing else needs to change.
+# `affiliate: false` = plain official URL (no deal yet). Links always render with rel="sponsored nofollow".
+fubo:
+  name: Fubo
+  url: https://www.fubo.tv/
+  affiliate: false
+  blurb: Live TV streaming with broadcast networks, ESPN, NFL Network and many regional sports networks.
+sling:
+  name: Sling TV
+  url: https://www.sling.com/
+  affiliate: false
+  blurb: Lower-cost live TV. Sling Orange has ESPN and TNT; Sling Blue has FOX/NBC in select markets and NFL Network.
+directv-stream:
+  name: DIRECTV Stream
+  url: https://www.directv.com/stream/
+  affiliate: false
+  blurb: Live TV streaming that carries most regional sports networks (check your ZIP code).
+youtube-tv:
+  name: YouTube TV
+  url: https://tv.youtube.com/
+  affiliate: false
+  blurb: Live TV with local CBS, FOX, NBC and ABC, ESPN, TNT and NFL Network; home of NFL Sunday Ticket.
+hulu-live:
+  name: Hulu + Live TV
+  url: https://www.hulu.com/live-tv
+  affiliate: false
+  blurb: Live TV bundle with local channels and ESPN, includes ESPN Unlimited and Disney+.
+peacock:
+  name: Peacock
+  url: https://www.peacocktv.com/
+  affiliate: false
+  blurb: NBC's streaming service; streams NBC sports broadcasts and Peacock exclusives.
+prime-video:
+  name: Prime Video
+  url: https://www.amazon.com/primevideo
+  affiliate: false
+  blurb: Thursday Night Football, NBA and some NHL/local games; included with Amazon Prime.
+espn:
+  name: ESPN (ESPN+ / ESPN Unlimited)
+  url: https://plus.espn.com/
+  affiliate: false
+  blurb: ESPN's streaming plans; ESPN+ carries many NHL and college games.
+paramount-plus:
+  name: Paramount+
+  url: https://www.paramountplus.com/
+  affiliate: false
+  blurb: Streams CBS sports broadcasts, including NFL on CBS.
+fox-one:
+  name: FOX One
+  url: https://www.foxone.com/
+  affiliate: false
+  blurb: FOX's streaming service with FOX, FS1 and FOX Sports broadcasts.
+hbo-max:
+  name: HBO Max
+  url: https://www.hbomax.com/
+  affiliate: false
+  blurb: Streams TNT Sports events (TNT, TBS, truTV).
+nfl-sunday-ticket:
+  name: NFL Sunday Ticket
+  url: https://tv.youtube.com/nfl/
+  affiliate: false
+  blurb: Out-of-market Sunday afternoon NFL games on YouTube / YouTube TV.
+nfl-plus:
+  name: NFL+
+  url: https://www.nfl.com/plus/
+  affiliate: false
+  blurb: Live local and primetime NFL games on phones and tablets.
+nba-league-pass:
+  name: NBA League Pass
+  url: https://www.nba.com/watch/league-pass-stream
+  affiliate: false
+  blurb: Out-of-market NBA games (local games are blacked out).
+nhl-center-ice:
+  name: NHL Center Ice
+  url: https://www.nhl.com/info/nhl-center-ice
+  affiliate: false
+  blurb: Out-of-market NHL games through your TV provider (blackouts apply).
+mlb-tv:
+  name: MLB.TV
+  url: https://www.mlb.com/live-stream-games
+  affiliate: false
+  blurb: Out-of-market MLB games (local games are blacked out).
+dazn:
+  name: DAZN
+  url: https://www.dazn.com/
+  affiliate: false
+  blurb: Streams some NBA teams' local games in-market (check your team and ZIP code).
+disney-plus:
+  name: Disney+
+  url: https://www.disneyplus.com/
+  affiliate: false
+  blurb: Carries selected ESPN games inside the Disney+ app.
+netflix:
+  name: Netflix
+  url: https://www.netflix.com/
+  affiliate: false
+  blurb: Streams a handful of live sports events.
+antenna:
+  name: An over-the-air antenna
+  url: https://www.amazon.com/s?k=hdtv+antenna
+  affiliate: false
+  blurb: Free local CBS, FOX, NBC and ABC broadcasts with a one-time antenna purchase.

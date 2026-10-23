@@ -1,0 +1,24 @@
+nfl:
+  in_market: "Sunday afternoon games on CBS and FOX are regional: you get whichever game your local CBS or FOX station carries, so your home team's game is normally on your local station. Primetime games are national: Thursday Night Football on Prime Video, Sunday Night Football on NBC and Peacock, and Monday Night Football on ESPN/ABC. Prime Video games also air on a local broadcast station in each team's home market."
+  out_of_market: "If you live outside your team's market, Sunday afternoon CBS/FOX games that aren't shown locally are on NFL Sunday Ticket (YouTube / YouTube TV). National primetime games are available everywhere on the network listed."
+  extra_services: [nfl-sunday-ticket, nfl-plus]
+nba:
+  in_market: "Most regular-season games air only inside the team's home territory, on its regional sports network, a local TV station, or the team's own streaming app. Games picked for national TV air on ESPN/ABC, NBC/Peacock or Prime Video."
+  out_of_market: "Outside the team's territory, NBA League Pass streams games that aren't on national TV. Local games are blacked out on League Pass in the teams' home markets."
+  extra_services: [nba-league-pass]
+nhl:
+  in_market: "Most games air inside the team's home territory on its regional network or a local broadcast station (some teams have moved to free over-the-air partners or their own app). National games air on ESPN/ABC or TNT/truTV, streaming on ESPN+ / HBO Max."
+  out_of_market: "In the US, out-of-market games stream on ESPN+, which is why almost every game lists ESPN+. Local games are blacked out on ESPN+ inside the teams' home markets; NHL Center Ice is the cable/satellite option."
+  extra_services: [nhl-center-ice]
+mlb:
+  in_market: "Most games air inside the team's home territory on its regional network, a local station, or MLB's in-market streaming. National games air on the networks listed (FOX/FS1, ESPN, TBS and others), and postseason games are always national."
+  out_of_market: "Outside the team's market, MLB.TV streams regular-season games that aren't on national TV, with local blackouts."
+  extra_services: [mlb-tv]
+college-football:
+  in_market: "College football games aren't sold by market the way pro games are. Each game is on the national or conference network listed (ESPN family, FOX, CBS, NBC/Peacock, Big Ten Network, SEC Network, ACC Network, CW and others), and some games stream only on ESPN+ or a conference service."
+  out_of_market: "If you don't have cable, pick a live TV streaming service that carries the network listed, or ESPN's streaming plans for ESPN+ and ESPN-family games."
+  extra_services: []
+nascar:
+  in_market: "There are no local blackouts for Cup Series races. Every race airs nationally on the network listed, and the TV partner changes during the season (FOX/FS1, Prime Video, TNT Sports and NBC/USA)."
+  out_of_market: "To stream without cable, use the streaming service listed for the race or a live TV service that carries the network."
+  extra_services: []

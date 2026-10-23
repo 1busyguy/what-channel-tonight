@@ -1,0 +1,55 @@
+# Site settings. Change SITE_URL / SITE_NAME when a real domain is bought.
+# SITE_URL can also be overridden with the SITE_URL environment variable.
+SITE_NAME: "What Channel Tonight"
+SITE_URL: "https://1busyguy.github.io/what-channel-tonight"
+SITE_TAGLINE: "What channel is the game on tonight? TV channels and legal streams for every game, updated twice daily."
+TIMEZONE: "America/New_York"
+CONTACT_EMAIL: "jim@1busyguy.com"
+
+# Privacy-friendly analytics. Leave empty to disable.
+# GoatCounter: set to your site code (the "xyz" in xyz.goatcounter.com).
+GOATCOUNTER_CODE: ""
+
+# How many days of schedule to pull around today (ET).
+DAYS_BACK: 3
+DAYS_AHEAD: 13
+
+# Leagues. sport/league = ESPN path. team_pages = generate /<key>/<team-slug>/ pages.
+LEAGUES:
+  - key: nfl
+    name: NFL
+    sport: football
+    league: nfl
+    team_pages: true
+    noun: game
+  - key: nba
+    name: NBA
+    sport: basketball
+    league: nba
+    team_pages: true
+    noun: game
+  - key: nhl
+    name: NHL
+    sport: hockey
+    league: nhl
+    team_pages: true
+    noun: game
+  - key: mlb
+    name: MLB
+    sport: baseball
+    league: mlb
+    team_pages: true
+    noun: game
+  - key: college-football
+    name: College Football
+    sport: football
+    league: college-football
+    params: {groups: 80}   # FBS only
+    team_pages: false
+    noun: game
+  - key: nascar
+    name: NASCAR Cup Series
+    sport: racing
+    league: nascar-premier
+    team_pages: false
+    noun: race

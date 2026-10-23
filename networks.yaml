@@ -1,0 +1,116 @@
+# Map broadcaster names (as ESPN lists them) to a type and the legal ways to watch.
+# Rules are checked top to bottom; `names` are exact (case-insensitive), `regex` is a Python regex.
+# kind: broadcast | cable | streaming | regional | ota | team-app | league-pass
+- names: [FOX]
+  label: FOX
+  kind: broadcast
+  services: [fox-one, youtube-tv, fubo, hulu-live, directv-stream, sling, antenna]
+- names: [CBS]
+  label: CBS
+  kind: broadcast
+  services: [paramount-plus, youtube-tv, fubo, hulu-live, directv-stream, antenna]
+- names: [NBC]
+  label: NBC
+  kind: broadcast
+  services: [peacock, youtube-tv, fubo, hulu-live, directv-stream, sling, antenna]
+- names: [ABC]
+  label: ABC
+  kind: broadcast
+  services: [youtube-tv, hulu-live, fubo, directv-stream, antenna]
+- names: [CW, The CW]
+  label: The CW
+  kind: broadcast
+  services: [antenna, youtube-tv, hulu-live, directv-stream]
+- names: [ESPN, ESPN2, ESPNU, SEC Network, ACC Network, ESPNEWS, SECN, ACCN]
+  kind: cable
+  services: [espn, youtube-tv, fubo, sling, hulu-live, directv-stream]
+- names: [ESPN+, ESPN Unlimited]
+  label: ESPN+ (ESPN app)
+  kind: streaming
+  services: [espn]
+- names: [Disney+]
+  kind: streaming
+  services: [disney-plus]
+- names: [Hulu]
+  kind: streaming
+  services: [hulu-live]
+- names: [Prime Video, Amazon Prime Video]
+  kind: streaming
+  services: [prime-video]
+- names: [Prime Video (Local)]
+  label: Prime Video (local, in-market only)
+  kind: team-app
+  services: [prime-video]
+  note: Streams on Prime Video only for viewers inside the team's home market.
+- names: [Peacock]
+  kind: streaming
+  services: [peacock]
+- names: [HBO Max, Max]
+  kind: streaming
+  services: [hbo-max]
+- names: [Netflix]
+  kind: streaming
+  services: [netflix]
+- names: [TNT, TBS, truTV]
+  kind: cable
+  services: [hbo-max, sling, youtube-tv, hulu-live, directv-stream]
+- names: [FS1, FS2]
+  kind: cable
+  services: [fox-one, youtube-tv, fubo, sling, hulu-live, directv-stream]
+- names: [CBSSN, CBS Sports Network]
+  label: CBS Sports Network
+  kind: cable
+  services: [youtube-tv, fubo, directv-stream]
+- names: [BTN, Big Ten Network]
+  label: Big Ten Network
+  kind: cable
+  services: [fubo, youtube-tv, hulu-live, directv-stream]
+- names: [NFL Net, NFL Network]
+  label: NFL Network
+  kind: cable
+  services: [youtube-tv, fubo, sling, hulu-live, directv-stream]
+- names: [NHL Net, NHL Network]
+  label: NHL Network
+  kind: cable
+  services: [youtube-tv, fubo, sling, directv-stream]
+- names: [NBA TV]
+  kind: cable
+  services: [youtube-tv, sling, directv-stream]
+- names: [USA Net, USA Network]
+  label: USA Network
+  kind: cable
+  services: [youtube-tv, fubo, sling, hulu-live, directv-stream]
+- names: [NBA League Pass]
+  kind: league-pass
+  services: [nba-league-pass]
+  note: Out-of-market only; games are blacked out in the teams' home markets.
+- names: [Scripps Sports]
+  kind: ota
+  services: [antenna]
+  note: Free over-the-air on local Scripps-owned stations in the team's market.
+- regex: '^(K|W)[A-Z]{2,3}\b|^Utah 16$|^ABC ?\d+|^CBS ?\d+|^FOX ?\d+|^NBC ?\d+|^Fox \d+|^Arizona''s Family|^KHN$'
+  kind: ota
+  services: [antenna, youtube-tv, hulu-live]
+  note: A local over-the-air TV station; free with an antenna in its coverage area.
+- regex: '^DAZN'
+  kind: team-app
+  services: [dazn]
+  note: DAZN's regional stream for this team, sold to viewers inside the team's home territory.
+- names: [NBCSN]
+  kind: cable
+  services: [youtube-tv, fubo, directv-stream]
+  note: NBC's national sports cable channel; check your provider's lineup.
+- names: [MW+, MW Network]
+  label: Mountain West Network (MW+)
+  kind: streaming
+  services: []
+  note: The Mountain West conference's own streaming service.
+- regex: '(^DAZN)|(App$)|([A-Za-z]\+$)|(Vision$)|(Live$)|(\.com$)|(TV$)|(^MW\+)'
+  kind: team-app
+  services: []
+  note: A team or regional direct-to-consumer stream, usually limited to viewers in the team's home territory.
+# Fallback for everything else listed as a home/away (local) broadcaster.
+- regex: '.*'
+  kind: regional
+  services: [directv-stream, fubo]
+  note: A regional sports network or local channel. Available on cable/satellite in the team's region; DIRECTV Stream and Fubo carry many regional networks (check your ZIP code).
