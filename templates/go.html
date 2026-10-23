@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }}</title>
+<meta name="robots" content="noindex, nofollow">
+<meta name="referrer" content="no-referrer-when-downgrade">
+{% if CFG.GOATCOUNTER_CODE %}
+<script>
+  // count the click (path = /go/{{ key }}/) then redirect
+  window.goatcounter = {no_onload: false};
+  setTimeout(function(){ location.replace({{ svc.url|tojson }}); }, 400);
+</script>
+<script data-goatcounter="https://{{ CFG.GOATCOUNTER_CODE }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<meta http-equiv="refresh" content="2;url={{ svc.url }}">
+{% else %}
+<meta http-equiv="refresh" content="0;url={{ svc.url }}">
+<script>location.replace({{ svc.url|tojson }});</script>
+{% endif %}
+<link rel="canonical" href="{{ svc.url }}">
+</head><body style="font-family:system-ui,sans-serif;padding:2rem">
+<p>Taking you to <a href="{{ svc.url }}" rel="sponsored nofollow">{{ svc.name }}</a>…</p>
+<p style="color:#666;font-size:.9rem">{{ CFG.SITE_NAME }} may earn a commission if you sign up. It costs you nothing extra.</p>
+</body></html>

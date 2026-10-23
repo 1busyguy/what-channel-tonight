@@ -1,0 +1,5 @@
+{% extends "base.html" %}
+{% block content %}
+<p class="lede">Short, practical guides to finding the right channel and watching games legally.</p>
+<ul class="guides">{% for g in guides %}<li><a href="{{ url(g.path) }}">{{ g.title }}</a><br><small class="muted">{{ g.description }}</small></li>{% endfor %}</ul>
+{% endblock %}

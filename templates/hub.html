@@ -1,0 +1,28 @@
+{% extends "base.html" %}{% from "_macros.html" import game %}
+{% block content %}
+<p class="lede">{% if n_today %}{{ n_today }} games and events today ({{ TODAY }}): NFL, NBA, NHL, MLB, college football and NASCAR, each with its start time, TV channel and legal streams.{% else %}No major games are scheduled today. Here's what's next in each league.{% endif %} National channels air everywhere. Local channels only reach the team's home market.</p>
+<nav class="jump">{% for x in LC.values() %}<a href="#{{ x.lg.key }}">{{ x.lg.name }} ({{ x.today|length }})</a>{% endfor %}</nav>
+{% for x in LC.values() %}
+<section id="{{ x.lg.key }}" class="league-block">
+  <h2><a href="{{ url('/' ~ x.lg.key ~ '/') }}">{{ x.lg.name }}</a> {{ 'today' if x.today else '' }}</h2>
+  {% if x.today %}
+    {% for e in x.today %}{{ game(e, x.lg) }}{% endfor %}
+  {% elif x.next_day %}
+    <p class="muted">No {{ x.lg.name }} {{ x.lg.noun }}s today. Next up: <strong>{{ x.next_day[0].day_label }}</strong>.</p>
+    {% for e in x.next_day[:4] %}{{ game(e, x.lg) }}{% endfor %}
+    {% if x.next_day|length > 4 %}<p><a href="{{ url('/' ~ x.lg.key ~ '/') }}">All {{ x.next_day|length }} {{ x.lg.name }} {{ x.lg.noun }}s on {{ x.next_day[0].day_label }} →</a></p>{% endif %}
+  {% else %}
+    <p class="muted">No {{ x.lg.name }} {{ x.lg.noun }}s in the next two weeks (off-season). <a href="{{ url('/' ~ x.lg.key ~ '/') }}">How to watch the {{ x.lg.name }}</a>.</p>
+  {% endif %}
+</section>
+{% endfor %}
+<section class="teams-index">
+  <h2>Find your team</h2>
+  {% for x in LC.values() if x.teams %}
+  <details><summary>{{ x.lg.name }} teams ({{ x.teams|length }})</summary>
+    <ul class="teamlist">{% for t in x.teams %}<li><a href="{{ url('/' ~ x.lg.key ~ '/' ~ t.slug ~ '/') }}">{{ t.name }}</a></li>{% endfor %}</ul>
+  </details>
+  {% endfor %}
+</section>
+<p><a href="{{ url('/guides/how-to-find-what-channel-the-game-is-on/') }}">Why isn't the game on my channel? In-market vs. out-of-market, explained →</a></p>
+{% endblock %}

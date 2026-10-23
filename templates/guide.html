@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block content %}
+<article class="guide">{{ body|safe }}</article>
+{% if faqs %}<section class="faq"><h2>FAQ</h2>{% for f in faqs %}<details><summary>{{ f.q }}</summary><p>{{ f.a }}</p></details>{% endfor %}</section>{% endif %}
+<p><a href="{{ url('/guides/') }}">More guides</a> · <a href="{{ url('/') }}">Every game tonight →</a></p>
+{% endblock %}
