@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+<p>{{ CFG.SITE_NAME }} answers one question fast: <strong>what channel is the game on tonight, and how can I watch it legally?</strong> We cover the NFL, NBA, NHL, MLB, FBS college football and the NASCAR Cup Series.</p>
+<h2>Where the listings come from</h2>
+<p>Schedules and TV listings are pulled automatically from public league schedule data twice a day, around 6 AM and 5 PM Eastern. Networks sometimes change late, and regional coverage depends on your ZIP code and provider, so check your provider's guide before game time.</p>
+<h2 id="disclosure">Affiliate disclosure</h2>
+<p>Some links to streaming services (for example Fubo, Sling TV, DIRECTV Stream, YouTube TV, Peacock, Prime Video, ESPN, Paramount+) are affiliate or referral links. If you sign up through one of them, we may earn a commission at no extra cost to you. Commissions never decide which channel we list for a game. That comes straight from the schedule data. We only link to legal, licensed services and never to unauthorized streams.</p>
+<h2>Contact</h2>
+<p>Corrections or questions: <a href="mailto:{{ CFG.CONTACT_EMAIL }}">{{ CFG.CONTACT_EMAIL }}</a>.</p>
+{% endblock %}

@@ -1,0 +1,30 @@
+{% macro svc_links(svc, limit=8) %}
+<ul class="svc">
+{% for s in svc[:limit] %}
+  <li><a href="{{ url('/go/' ~ s.key ~ '/') }}" rel="sponsored nofollow" data-svc="{{ s.key }}">{{ s.name }}</a> <span>{{ s.blurb }}</span></li>
+{% endfor %}
+</ul>
+{% endmacro %}
+
+{% macro chips(rows) %}
+{% if rows %}
+<ul class="chips">
+{% for r in rows %}<li class="k-{{ r.kind }}"><b>{{ r.label }}</b> <small>{{ r.where }} · {{ KIND_LABEL[r.kind] }}</small></li>{% endfor %}
+</ul>
+{% else %}<p class="muted">TV channel not announced yet. Check back; this page updates twice a day.</p>{% endif %}
+{% endmacro %}
+
+{% macro game(e, lg, link_teams=true) %}
+{% set rows = watch_rows(e) %}
+<article class="game{% if e.state == 'in' %} live{% endif %}">
+  <div class="g-head">
+    <span class="time">{% if e.state == 'post' %}{{ e.status }}{% elif e.state == 'in' %}LIVE · {{ e.status }}{% else %}{{ e.time_et }}{% endif %}</span>
+    <h3>{% if e.away and e.home %}{% if link_teams and lg.team_pages %}<a href="{{ url('/' ~ lg.key ~ '/' ~ (LC[lg.key].teams|selectattr('id','equalto',e.away.id)|map(attribute='slug')|first|default('')) ~ '/') }}">{{ e.away.name }}</a> at <a href="{{ url('/' ~ lg.key ~ '/' ~ (LC[lg.key].teams|selectattr('id','equalto',e.home.id)|map(attribute='slug')|first|default('')) ~ '/') }}">{{ e.home.name }}</a>{% else %}{{ e.away.name }} at {{ e.home.name }}{% endif %}{% else %}{{ e.name }}{% endif %}</h3>
+  </div>
+  {% if e.note %}<p class="note">{{ e.note }}</p>{% endif %}
+  {% if e.venue %}<p class="venue">{{ e.venue }}{% if e.city %}, {{ e.city }}{% endif %}</p>{% endif %}
+  {{ chips(rows) }}
+  {% set svc = services_for(rows) %}
+  {% if svc and e.state != 'post' %}<p class="stream">Stream legally: {% for s in svc[:4] %}<a href="{{ url('/go/' ~ s.key ~ '/') }}" rel="sponsored nofollow">{{ s.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</p>{% endif %}
+</article>
+{% endmacro %}

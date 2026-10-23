@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }}</title>
+{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+{% if page.noindex %}<meta name="robots" content="noindex, nofollow">{% else %}
+<link rel="canonical" href="{{ abs_url(page.path) }}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ CFG.SITE_NAME }}">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:url" content="{{ abs_url(page.path) }}">
+<meta name="twitter:card" content="summary">
+{% endif %}
+<meta name="theme-color" content="#0b3d91">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%BA%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="{{ url('/static/style.css') }}">
+{% if page.ld %}<script type="application/ld+json">{{ page.ld|safe }}</script>{% endif %}
+{% block head %}{% endblock %}
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="{{ url('/') }}">📺 {{ CFG.SITE_NAME }}</a>
+    <nav class="leagues" aria-label="Leagues">
+      {% for l in LEAGUES %}<a href="{{ url('/' ~ l.key ~ '/') }}">{{ 'CFB' if l.key == 'college-football' else ('NASCAR' if l.key == 'nascar' else l.name) }}</a>{% endfor %}
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+{% if page.crumbs and page.crumbs|length > 1 %}
+<nav class="crumbs" aria-label="Breadcrumb">{% for n, p in page.crumbs %}{% if not loop.last %}<a href="{{ url(p) }}">{{ n }}</a> › {% else %}<span>{{ n }}</span>{% endif %}{% endfor %}</nav>
+{% endif %}
+<h1>{{ page.h1 }}</h1>
+<p class="updated">Last updated: <time datetime="{{ UPDATED_ISO }}">{{ UPDATED }}</time>. All times Eastern.</p>
+<p class="disclosure-mini">We may earn a commission if you sign up through links on this page. <a href="{{ url('/about/') }}#disclosure">Disclosure</a></p>
+{% block content %}{% endblock %}
+</main>
+<footer class="foot">
+  <div class="wrap">
+    <p class="popular"><strong>Popular:</strong> {% for t, p in FEATURED_LINKS %}<a href="{{ url(p) }}">{{ t }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+    <p id="ftc"><strong>Affiliate disclosure:</strong> {{ CFG.SITE_NAME }} is reader-supported. Some links to streaming services are affiliate or referral links, so we may earn a commission if you sign up, at no extra cost to you. That never changes which channel a game is on. We only list legal, licensed ways to watch.</p>
+    <p>TV listings come from public league schedule data and can change; blackouts and channel lineups vary by ZIP code, so confirm with your provider. Not affiliated with any league or team.</p>
+    <p><a href="{{ url('/') }}">Tonight</a> · <a href="{{ url('/guides/') }}">Guides</a> · <a href="{{ url('/about/') }}">About</a> · <a href="{{ url('/privacy/') }}">Privacy</a> · <a href="{{ url('/sitemap.xml') }}">Sitemap</a></p>
+    <p>Last updated {{ UPDATED }}.</p>
+  </div>
+</footer>
+{% include "_analytics.html" %}
+</body>
+</html>
