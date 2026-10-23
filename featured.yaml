@@ -1,0 +1,43 @@
+# Hand-picked pages (from the niche scan's first-10 list). Shown in the "Popular" nav on every page.
+links:
+  - {title: "NFL game tonight", path: /nfl/}
+  - {title: "Thursday Night Football", path: /nfl/thursday-night-football/}
+  - {title: "Bears", path: /nfl/chicago-bears/}
+  - {title: "Patriots", path: /nfl/new-england-patriots/}
+  - {title: "Bills", path: /nfl/buffalo-bills/}
+  - {title: "76ers", path: /nba/philadelphia-76ers/}
+  - {title: "Thunder", path: /nba/oklahoma-city-thunder/}
+  - {title: "Cavaliers", path: /nba/cleveland-cavaliers/}
+  - {title: "Bruins", path: /nhl/boston-bruins/}
+  - {title: "Predators", path: /nhl/nashville-predators/}
+  - {title: "NASCAR race today", path: /nascar/}
+
+league_titles:
+  nascar:
+    title: "What Channel Is the NASCAR Race On Today? Cup Series TV & Streaming"
+    h1: "What channel is the NASCAR race on today?"
+    description: "This week's NASCAR Cup Series race: green-flag time in ET, the TV channel, and legal ways to stream it without cable."
+  college-football:
+    title: "What Channel Is the College Football Game On Today? FBS TV Schedule"
+    h1: "What channel is the college football game on today?"
+  nfl:
+    intro: "Every NFL game this week with kickoff time (ET) and the channel. Sunday afternoon CBS/FOX games are regional, so check the local note under each matchup."
+
+# Extra notes on specific team pages (key = league/team-slug). Keep these factual and evergreen.
+teams:
+  nfl/buffalo-bills:
+    note: "On Spectrum, DIRECTV or any cable box, Sunday afternoon Bills games are on your local CBS or FOX station, whichever network the game is listed on below. Primetime games are on NBC (Sunday night), ESPN/ABC (Monday night) or Prime Video (Thursday night). Prime Video games also air on a local broadcast station in the Bills' home market, so Spectrum and DIRECTV customers there can watch on regular TV."
+  nfl/chicago-bears:
+    note: "In the Chicago area, Sunday afternoon Bears games are on the local CBS or FOX station listed below. Primetime Bears games are national: NBC/Peacock on Sunday night, ESPN/ABC on Monday night, and Prime Video on Thursday night (also simulcast on a Chicago broadcast station)."
+  nfl/new-england-patriots:
+    note: "In New England, Sunday afternoon Patriots games air on the local CBS or FOX station listed below. Thursday games on Prime Video are also simulcast on a Boston-market broadcast station; elsewhere they are Prime Video only."
+  nba/cleveland-cavaliers:
+    note: "Not sure why the Cavs aren't on your usual channel? Local Cavaliers broadcasts are listed below exactly as the league schedule shows them for each game. If a game lists a streaming app as the local outlet, that stream only works inside the Cavaliers' home territory. Nationally televised games are on ESPN/ABC, NBC/Peacock or Prime Video for everyone."
+  nba/philadelphia-76ers:
+    note: "Local Sixers games air in the Philadelphia region on the regional network listed below. National 76ers games are on ESPN/ABC, NBC/Peacock or Prime Video."
+  nba/oklahoma-city-thunder:
+    note: "Local Thunder games air in Oklahoma on the local broadcaster and team app listed below. National Thunder games are on ESPN/ABC, NBC/Peacock or Prime Video, and those are available everywhere."
+  nhl/boston-bruins:
+    note: "Local Bruins games are on NESN in New England. Out of market, most Bruins games stream on ESPN+. National games air on ESPN/ABC or TNT."
+  nhl/nashville-predators:
+    note: "Local Predators broadcasts are listed below for each game; some air free over the air on Scripps Sports stations. Outside the Predators' market, most games stream on ESPN+."
