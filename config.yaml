@@ -8,7 +8,7 @@ CONTACT_EMAIL: "jim@1busyguy.com"
 
 # Privacy-friendly analytics. Leave empty to disable.
 # GoatCounter: set to your site code (the "xyz" in xyz.goatcounter.com).
-GOATCOUNTER_CODE: ""
+GOATCOUNTER_CODE: "oemid"
 
 # How many days of schedule to pull around today (ET).
 DAYS_BACK: 3

@@ -4,13 +4,20 @@
 <meta name="robots" content="noindex, nofollow">
 <meta name="referrer" content="no-referrer-when-downgrade">
 {% if CFG.GOATCOUNTER_CODE %}
+<meta http-equiv="refresh" content="3;url={{ svc.url }}">
 <script>
-  // count the click (path = /go/{{ key }}/) then redirect
-  window.goatcounter = {no_onload: false};
-  setTimeout(function(){ location.replace({{ svc.url|tojson }}); }, 400);
+  // Register the affiliate click as a GoatCounter event "go/{{ key }}", then redirect.
+  window.goatcounter = {no_onload: true};
+  var dest = {{ svc.url|tojson }}, done = false;
+  function go(){ if (!done) { done = true; location.replace(dest); } }
+  function track(){
+    try { window.goatcounter.count({path: "go/{{ key }}", title: "Affiliate click: {{ svc.name }}", event: true}); } catch (e) {}
+    setTimeout(go, 200);
+  }
+  setTimeout(go, 1500); // never strand the visitor if the counter is blocked
 </script>
-<script data-goatcounter="https://{{ CFG.GOATCOUNTER_CODE }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-<meta http-equiv="refresh" content="2;url={{ svc.url }}">
+<script data-goatcounter="https://{{ CFG.GOATCOUNTER_CODE }}.goatcounter.com/count" async src="https://gc.zgo.at/count.js" onload="track()" onerror="go()"></script>
+<noscript><img src="https://{{ CFG.GOATCOUNTER_CODE }}.goatcounter.com/count?p=go/{{ key }}&amp;e=true" alt="" width="1" height="1"></noscript>
 {% else %}
 <meta http-equiv="refresh" content="0;url={{ svc.url }}">
 <script>location.replace({{ svc.url|tojson }});</script>
