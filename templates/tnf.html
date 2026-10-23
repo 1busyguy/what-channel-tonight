@@ -1,0 +1,21 @@
+{% extends "base.html" %}{% from "_macros.html" import chips, svc_links, game %}
+{% block content %}
+<div class="answer">
+{% if tnf %}
+  <p><strong>{{ 'Tonight' if tnf.date_et == TODAY else 'Next Thursday Night Football' }}:</strong> {{ tnf.away.name }} at {{ tnf.home.name }}, <strong>{{ tnf.day_label }} at {{ tnf.time_et }}</strong>.</p>
+  <p class="big">📺 Prime Video{% if rows|selectattr('where','ne','National')|list %} (plus local TV in each team's market){% endif %}</p>
+{% else %}
+  <p><strong>No Thursday Night Football game in the next two weeks.</strong> During the NFL regular season, TNF streams on Prime Video every Thursday.</p>
+{% endif %}
+</div>
+{% if tnf %}{{ game(tnf, LC.nfl.lg) }}{% endif %}
+<section>
+  <h2>How to watch Thursday Night Football legally</h2>
+  {{ svc_links(svc) }}
+  <p>In the two teams' home markets, the game also airs free on a local broadcast station (listed above as local channels when the schedule includes them), so an antenna or any cable/live TV package with local channels works there.</p>
+</section>
+<section class="faq"><h2>Thursday Night Football FAQ</h2>
+{% for f in faqs %}<details{% if loop.first %} open{% endif %}><summary>{{ f.q }}</summary><p>{{ f.a }}</p></details>{% endfor %}
+</section>
+<p><a href="{{ url('/nfl/') }}">All NFL games this week →</a></p>
+{% endblock %}

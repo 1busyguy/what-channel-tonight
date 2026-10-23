@@ -1,0 +1,58 @@
+{% extends "base.html" %}{% from "_macros.html" import chips, svc_links %}
+{% block content %}
+<div class="answer" style="border-left-color:#{{ team.color }}">
+{% if today_game %}
+  <p><strong>Yes, the {{ team.short }} play today.</strong> {{ team.name }} {{ opp(today_game) }}, {{ today_game.time_et }}{% if today_game.state == 'in' %} (live now: {{ today_game.status }}){% endif %}.</p>
+  <p class="big">📺 {{ channel_sentence(rows) }}</p>
+{% elif nxt %}
+  <p><strong>No {{ team.short }} {{ lg.noun }} tonight.</strong> Next {{ lg.noun }}: {{ team.name }} {{ opp(nxt) }}, <strong>{{ nxt.day_label }} at {{ nxt.time_et }}</strong>.</p>
+  <p class="big">📺 {{ channel_sentence(rows) }}</p>
+{% else %}
+  <p><strong>The {{ team.name }} have no {{ lg.noun }}s scheduled in the next two weeks</strong> (off-season or a break in the schedule). This page updates automatically when the schedule is posted.</p>
+{% endif %}
+</div>
+
+{% if nxt %}
+<section>
+  <h2>Channels for the next {{ team.short }} {{ lg.noun }}</h2>
+  {% if nxt.venue %}<p class="venue">{{ nxt.name }} · {{ nxt.venue }}{% if nxt.city %}, {{ nxt.city }}{% endif %}</p>{% endif %}
+  {{ chips(rows) }}
+  {% for r in rows if r.note %}<p class="muted small"><b>{{ r.label }}:</b> {{ r.note }}</p>{% endfor %}
+</section>
+{% endif %}
+
+{% if feat.note %}<section><h2>{{ team.short }} TV: what to know</h2><p>{{ feat.note }}</p></section>{% endif %}
+
+<section>
+  <h2>How to stream the {{ team.short }} legally</h2>
+  {% if svc %}{{ svc_links(svc) }}{% else %}<p>Once the TV listing for the next game is out, the matching services show up here. Meanwhile, live TV services like YouTube TV, Fubo, Sling and DIRECTV Stream carry most national sports channels.</p>{% endif %}
+  <p class="muted small">Channel lineups and regional networks vary by ZIP code. Check availability before you sign up. We never link to unlicensed streams.</p>
+</section>
+
+<section class="notes">
+  <h2>In-market vs. out-of-market {{ team.short }} games</h2>
+  <p><strong>If you live in the {{ team.location or team.short }} area:</strong> {{ notes.in_market }}</p>
+  {% if locals_ %}<p><strong>Local {{ team.short }} broadcasters in recent listings:</strong> {% for l in locals_ %}{{ l.label }} <small class="muted">({{ KIND_LABEL[l.kind] }})</small>{% if not loop.last %}, {% endif %}{% endfor %}.</p>{% endif %}
+  <p><strong>If you live elsewhere:</strong> {{ notes.out_of_market }}</p>
+</section>
+
+{% if upcoming|length > 1 %}
+<section>
+  <h2>Upcoming {{ team.short }} {{ lg.noun }}s and channels</h2>
+  <table class="sched"><thead><tr><th>Date</th><th>{{ lg.noun|title }}</th><th>Time (ET)</th><th>TV / stream</th></tr></thead><tbody>
+  {% for e in upcoming %}<tr><td>{{ e.day_label }}</td><td>{{ opp(e) }}</td><td>{{ e.time_et }}</td><td>{{ channel_sentence(watch_rows(e, 'home' if e.home and e.home.id == team.id else 'away')) }}</td></tr>{% endfor %}
+  </tbody></table>
+</section>
+{% endif %}
+
+<section class="faq">
+  <h2>{{ team.short }} TV FAQ</h2>
+  {% for f in faqs %}<details{% if loop.first %} open{% endif %}><summary>{{ f.q }}</summary><p>{{ f.a }}</p></details>{% endfor %}
+</section>
+
+<section>
+  <h2>More {{ lg.name }} teams</h2>
+  <p><a href="{{ url('/' ~ lg.key ~ '/') }}">All {{ lg.name }} {{ lg.noun }}s tonight →</a> · <a href="{{ url('/') }}">Every game tonight →</a></p>
+  <ul class="teamlist small">{% for o in others %}<li><a href="{{ url('/' ~ lg.key ~ '/' ~ o.slug ~ '/') }}">{{ o.short }}</a></li>{% endfor %}</ul>
+</section>
+{% endblock %}

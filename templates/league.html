@@ -1,0 +1,27 @@
+{% extends "base.html" %}{% from "_macros.html" import game, svc_links %}
+{% block content %}
+{% if intro %}<p class="lede">{{ intro }}</p>{% endif %}
+{% if x.today %}
+<p class="answer">{{ x.today|length }} {{ lg.name }} {{ lg.noun }}{{ 's' if x.today|length != 1 }} today. {% set e = x.today[0] %}First up: {{ e.short_name or e.name }} at {{ e.time_et }} on {{ channel_sentence(watch_rows(e)) }}.</p>
+{% elif x.next_day %}
+<p class="answer">No {{ lg.name }} {{ lg.noun }}s today. The next {{ lg.name }} {{ lg.noun }}{{ 's are' if x.next_day|length > 1 else ' is' }} on <strong>{{ x.next_day[0].day_label }}</strong>{% set e = x.next_day[0] %}, starting with {{ e.short_name or e.name }} at {{ e.time_et }} on {{ channel_sentence(watch_rows(e)) }}.</p>
+{% else %}
+<p class="answer">No {{ lg.name }} {{ lg.noun }}s are scheduled in the next two weeks. The season is over or hasn't started. This page fills in automatically once the schedule is out.</p>
+{% endif %}
+{% for d, g in groups.items() %}
+<section class="day"><h2>{{ 'Today, ' if d == TODAY else '' }}{{ g.label }}</h2>
+{% for e in g.events %}{{ game(e, lg) }}{% endfor %}
+</section>
+{% endfor %}
+<section class="notes">
+  <h2>In-market vs. out-of-market</h2>
+  <p><strong>In your team's market:</strong> {{ notes.in_market }}</p>
+  <p><strong>Out of market:</strong> {{ notes.out_of_market }}</p>
+</section>
+{% if x.teams %}
+<section><h2>{{ lg.name }} team pages</h2>
+<ul class="teamlist">{% for t in x.teams %}<li><a href="{{ url('/' ~ lg.key ~ '/' ~ t.slug ~ '/') }}">What channel is the {{ t.short }} {{ lg.noun }} on?</a></li>{% endfor %}</ul></section>
+{% endif %}
+{% if lg.key == 'nfl' %}<p><a href="{{ url('/nfl/thursday-night-football/') }}">Where to watch Thursday Night Football →</a></p>{% endif %}
+<p><a href="{{ url('/') }}">← Every game tonight, all leagues</a></p>
+{% endblock %}
