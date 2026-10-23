@@ -1,7 +1,8 @@
-# Site settings. Change SITE_URL / SITE_NAME when a real domain is bought.
+# Site settings. SITE_URL is the live domain (served via GitHub Pages + CNAME).
 # SITE_URL can also be overridden with the SITE_URL environment variable.
 SITE_NAME: "What Channel Tonight"
-SITE_URL: "https://1busyguy.github.io/what-channel-tonight"
+SITE_URL: "https://whatchanneltonight.com"
+CNAME: "whatchanneltonight.com"
 SITE_TAGLINE: "What channel is the game on tonight? TV channels and legal streams for every game, updated twice daily."
 TIMEZONE: "America/New_York"
 CONTACT_EMAIL: "jim@1busyguy.com"
