@@ -54,3 +54,5 @@ LEAGUES:
     league: nascar-premier
     team_pages: false
     noun: race
+# Affiliate network site verification (Impact). Rendered as <meta name='impact-site-verification' value='...'> in every <head>.
+IMPACT_SITE_VERIFICATION: "ae402623-f560-4cb3-9ac8-33e0edce495b"
