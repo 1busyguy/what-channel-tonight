@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /go/
+Allow: /
+
+Sitemap: https://whatchanneltonight.com/sitemap.xml
