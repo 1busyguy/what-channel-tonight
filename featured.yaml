@@ -11,6 +11,7 @@ links:
   - {title: "Bruins", path: /nhl/boston-bruins/}
   - {title: "Predators", path: /nhl/nashville-predators/}
   - {title: "NASCAR race today", path: /nascar/}
+  - {title: "World Series", path: /guides/how-to-watch-2026-world-series-rays-vs-brewers/}
 
 league_titles:
   nascar:
