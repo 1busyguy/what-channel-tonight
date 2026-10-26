@@ -3,8 +3,8 @@
 # `affiliate: false` = plain official URL (no deal yet). Links always render with rel="sponsored nofollow".
 fubo:
   name: Fubo
-  url: https://www.fubo.tv/
-  affiliate: false
+  url: https://sovrn.co/1atmnnz
+  affiliate: true
   blurb: Live TV streaming with broadcast networks, ESPN, NFL Network and many regional sports networks.
 sling:
   name: Sling TV
