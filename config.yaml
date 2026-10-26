@@ -5,7 +5,7 @@ SITE_URL: "https://whatchanneltonight.com"
 CNAME: "whatchanneltonight.com"
 SITE_TAGLINE: "What channel is the game on tonight? TV channels and legal streams for every game, updated twice daily."
 TIMEZONE: "America/New_York"
-CONTACT_EMAIL: "jim@1busyguy.com"
+CONTACT_EMAIL: "hello@whatchanneltonight.com"
 
 # Privacy-friendly analytics. Leave empty to disable.
 # GoatCounter: set to your site code (the "xyz" in xyz.goatcounter.com).
