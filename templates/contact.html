@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<p>{{ CFG.SITE_NAME }} is run by one independent developer. The best way to reach us is email:</p>
+<p><strong><a href="mailto:{{ CFG.CONTACT_EMAIL }}">{{ CFG.CONTACT_EMAIL }}</a></strong></p>
+<h2>Corrections</h2>
+<p>Spotted a wrong channel, start time or streaming option? Email us with the game, the date and what you saw (a link or screenshot from your provider's guide helps). We fix confirmed errors as fast as we can.</p>
+<h2>Business and partnership inquiries</h2>
+<p>Streaming services, affiliate programs, networks and other partners can reach us at the same address about partnerships, affiliate programs or advertising. Any paid relationship is disclosed in our <a href="{{ url('/about/') }}#disclosure">affiliate disclosure</a>.</p>
+<h2>Everything else</h2>
+<p>Feature ideas, a league you'd like us to cover, or general feedback are all welcome. We usually reply within a few business days.</p>
+{% endblock %}

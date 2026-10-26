@@ -421,7 +421,9 @@ def build(data):
 
     # ---- static pages
     for slug, title, desc in [("about", "About & Affiliate Disclosure", f"About {CFG['SITE_NAME']}, where our TV listings come from, and how we make money."),
-                              ("privacy", "Privacy Policy", f"{CFG['SITE_NAME']} privacy policy: no ads trackers, no accounts, cookie-free analytics.")]:
+                              ("privacy", "Privacy Policy", f"{CFG['SITE_NAME']} privacy policy: no ads trackers, no accounts, cookie-free analytics."),
+                              ("terms", "Terms of Use", f"{CFG['SITE_NAME']} terms of use: informational only, listings can change, affiliate links, no warranty."),
+                              ("contact", "Contact", f"Contact {CFG['SITE_NAME']} for TV listing corrections, feedback, and business or partnership inquiries.")]:
         page = {"title": f"{title} | {CFG['SITE_NAME']}", "h1": title, "description": desc, "priority": "0.3",
                 "crumbs": [("Home", "/"), (title, f"/{slug}/")]}
         page["ld"] = ld_json([], {**page, "path": f"/{slug}/"})
