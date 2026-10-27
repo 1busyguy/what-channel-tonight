@@ -15,7 +15,7 @@ faq:
   - q: "Is the World Series on Sling TV?"
     a: "Sling Blue carries FOX only in select markets, so check your ZIP code first. Fubo, YouTube TV, DIRECTV Stream and Hulu + Live TV carry local FOX stations in most markets."
 ---
-**Short answer: FOX.** Every game of the 2026 World Series, the Tampa Bay Rays vs the Milwaukee Brewers, airs nationally on **FOX** at **8 p.m. ET**. The Spanish-language broadcast is on **FOX Deportes**, and you can stream every game on **FOX One**. The Brewers won Game 1 3-2 and Game 2 5-4 in Milwaukee and lead the series 2-0.
+**Short answer: FOX.** Every game of the 2026 World Series, the Tampa Bay Rays vs the Milwaukee Brewers, airs nationally on **FOX** at **8 p.m. ET**. The Spanish-language broadcast is on **FOX Deportes**, and you can stream every game on **FOX One**. The Brewers won Game 1 3-2 and Game 2 5-4 in Milwaukee, then won Game 3 10-1 in St. Petersburg, and lead the series 3-0. They can clinch with a win in Game 4 on Tuesday, Oct 27.
 
 ## 2026 World Series TV schedule
 
@@ -23,7 +23,7 @@ faq:
 |---|---|---|---|---|
 | Game 1 | Fri, Oct 23 | Rays at Brewers (Brewers won 3-2) | 8:00 p.m. | FOX, FOX Deportes, Univision |
 | Game 2 | Sat, Oct 24 | Rays at Brewers (Brewers won 5-4) | 8:00 p.m. | FOX, FOX Deportes |
-| Game 3 | Mon, Oct 26 | Brewers at Rays | 8:00 p.m. | FOX, FOX Deportes |
+| Game 3 | Mon, Oct 26 | Brewers at Rays (Brewers won 10-1) | 8:00 p.m. | FOX, FOX Deportes |
 | Game 4 | Tue, Oct 27 | Brewers at Rays | 8:00 p.m. | FOX, FOX Deportes |
 | Game 5* | Wed, Oct 28 | Brewers at Rays | 8:00 p.m. | FOX, FOX Deportes |
 | Game 6* | Fri, Oct 30 | Rays at Brewers | 8:00 p.m. | FOX, FOX Deportes |
@@ -63,4 +63,4 @@ Local channel lineups depend on your ZIP code, so check the service's lineup for
 
 The NFL, NBA, NHL and college football are all playing during the World Series. Check the [tonight page](/) for every game's channel, the [MLB page](/mlb/) for the latest World Series listing, and our guide on [how to find what channel the game is on](/guides/how-to-find-what-channel-the-game-is-on/).
 
-*Schedule sources: MLB.com, FOX Sports and ESPN listings as of Oct 24, 2026. Times can change, so confirm with your provider before first pitch.*
+*Schedule sources: MLB.com, FOX Sports and ESPN listings as of Oct 27, 2026. Times can change, so confirm with your provider before first pitch.*
