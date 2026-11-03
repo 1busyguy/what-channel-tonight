@@ -53,7 +53,7 @@ The pattern for the next two weeks looks like this:
 
 - **Tuesday:** NBC doubleheaders, also streaming on Peacock.
 - **Wednesday:** ESPN doubleheaders.
-- **Friday:** Prime Video doubleheaders, including NBA Cup group play games.
+- **Friday:** Prime Video doubleheaders, including NBA Cup group play games. See our [NBA Cup 2026 TV schedule](/guides/nba-cup-2026-tv-schedule-what-channel-every-game-is-on/) for every Cup game and its channel.
 - **Monday:** NBCSN, NBC's national sports cable channel, has a game on both Mondays.
 - **Other nights:** NBA TV picks up national games, often alongside the local broadcasts.
 
