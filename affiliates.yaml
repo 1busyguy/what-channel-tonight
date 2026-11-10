@@ -96,6 +96,11 @@ netflix:
   url: https://www.netflix.com/
   affiliate: false
   blurb: Streams a handful of live sports events.
+apple-tv:
+  name: Apple TV
+  url: https://tv.apple.com/
+  affiliate: false
+  blurb: Apple's streaming service; every MLS match, including the MLS Cup Playoffs, is included with an Apple TV subscription.
 antenna:
   name: An over-the-air antenna
   url: https://www.amazon.com/s?k=hdtv+antenna
