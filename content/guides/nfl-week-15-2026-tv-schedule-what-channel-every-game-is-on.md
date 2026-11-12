@@ -78,6 +78,8 @@ Local channel lineups depend on your ZIP code, so check the service's lineup for
 
 ## Also on TV
 
+The next week is Christmas week, with two Netflix games and Rams at Seahawks on FOX on Christmas Day: see the [NFL Week 16 TV schedule](/guides/nfl-week-16-2026-tv-schedule-christmas-games-what-channel/).
+
 The week before has Vikings at Patriots on Thursday and Bills at Packers on Sunday night: see the [NFL Week 14 TV schedule](/guides/nfl-week-14-2026-tv-schedule-what-channel-every-game-is-on/). [NFL Week 13](/guides/nfl-week-13-2026-tv-schedule-what-channel-every-game-is-on/) has Chiefs at Rams and Cowboys at Seahawks, and [NFL Week 12](/guides/nfl-week-12-2026-tv-schedule-thanksgiving-games-what-channel/) covers the Thanksgiving games. Soccer fans can check the [MLS Cup Playoffs TV schedule](/guides/mls-cup-playoffs-2026-tv-schedule-what-channel-every-game-is-on/) for the Dec 18 MLS Cup on FOX, the [NBA](/guides/what-channel-are-nba-games-on-2026-27-national-tv-schedule/) and [NHL](/guides/what-channel-are-nhl-games-on-2026-27-national-tv-schedule/) national TV schedules cover the rest of the week, and the [tonight page](/) lists every game's channel each night.
 
 *Schedule source: ESPN NFL scoreboard listings as of Nov 11, 2026. Times and channels can change, so confirm with your provider before kickoff.*
