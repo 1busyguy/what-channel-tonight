@@ -126,6 +126,8 @@ Local channel lineups depend on your ZIP code, so check the service's lineup for
 
 ## Also on TV this week
 
+**Next week:** see the [college football Week 12 TV schedule](/guides/college-football-week-12-2026-tv-schedule-what-channel-every-game-is-on/) for Georgia at South Carolina, SMU at Notre Dame and Friday's Oregon at Michigan State.
+
 This weekend's games are in our [college football Week 10 TV schedule](/guides/college-football-week-10-2026-tv-schedule-what-channel-every-game-is-on/), including Miami at Notre Dame and Oregon at Ohio State. For the NFL, see the [NFL Week 10 TV schedule](/guides/nfl-week-10-2026-tv-schedule-what-channel-every-game-is-on/), including Patriots vs Lions in Munich. The [NBA Cup schedule](/guides/nba-cup-2026-tv-schedule-what-channel-every-game-is-on/) and [NHL national TV schedule](/guides/what-channel-are-nhl-games-on-2026-27-national-tv-schedule/) cover the rest of the week, and the [tonight page](/) lists every game's channel each night.
 
 *Schedule source: ESPN college football (FBS) scoreboard listings as of Nov 4, 2026, refreshed Nov 9, 2026. Times and channels can change, so confirm with your provider before kickoff.*
