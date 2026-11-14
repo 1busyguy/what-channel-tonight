@@ -104,7 +104,7 @@ Lineups vary by ZIP code, so check a service's channel list for your address bef
 
 ## Coming up next week
 
-The schedule gets heavier on Tuesday, Nov 17: No. 3 Illinois at No. 2 Duke (7 p.m., ESPN), No. 6 Michigan State at No. 8 Tennessee (9 p.m., ESPN2) and the start of the Players Era tournament on ESPN, with No. 1 Florida vs Notre Dame and No. 10 Houston vs Rutgers. No. 4 UConn at No. 5 Arizona follows on Wednesday, Nov 18 at 9 p.m. on FS1.
+The schedule gets heavier on Tuesday, Nov 17: No. 3 Illinois at No. 2 Duke (7 p.m., ESPN), No. 6 Michigan State at No. 8 Tennessee (9 p.m., ESPN2) and the start of the Players Era tournament on ESPN, with No. 1 Florida vs Notre Dame and No. 10 Houston vs Rutgers. No. 4 UConn at No. 5 Arizona follows on Wednesday, Nov 18 at 9 p.m. on FS1. Every game for that week, with updated rankings, is in our [Nov 17-23 college basketball TV schedule](/guides/college-basketball-tv-schedule-nov-17-23-2026-illinois-duke-players-era-what-channel/).
 
 ## Also on TV this week
 
