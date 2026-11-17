@@ -122,6 +122,10 @@ All of these are legal, licensed options:
 
 Lineups vary by ZIP code, so check a service's channel list for your address before you pay. For the bigger picture, read our guide on [how to find what channel the game is on](/guides/how-to-find-what-channel-the-game-is-on/).
 
+## Next week
+
+Feast Week, including UConn vs Duke on Prime Video, Michigan State vs Arkansas on Thanksgiving and the Players Era 16, is in our [Nov 24-30 college basketball TV schedule](/guides/college-basketball-tv-schedule-nov-24-30-2026-feast-week-duke-uconn-players-era-what-channel/).
+
 ## Last week and other sports
 
 Last week's games, including the Champions Classic, are in our [Nov 10-16 college basketball TV schedule](/guides/college-basketball-tv-schedule-nov-10-16-2026-champions-classic-top-25-what-channel/). College football is in the [Week 12 TV schedule](/guides/college-football-week-12-2026-tv-schedule-what-channel-every-game-is-on/), and the NFL is in the [Week 11 TV schedule](/guides/nfl-week-11-2026-tv-schedule-what-channel-every-game-is-on/). The [NBA Cup schedule](/guides/nba-cup-2026-tv-schedule-what-channel-every-game-is-on/) and [NHL national TV schedule](/guides/what-channel-are-nhl-games-on-2026-27-national-tv-schedule/) cover the pros, and the [tonight page](/) lists every game's channel each night.
