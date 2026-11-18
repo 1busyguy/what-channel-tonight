@@ -414,7 +414,7 @@ def build(data):
         write(path, "guide.html", page=page, body=body_html, faqs=faqs, meta=meta)
         guides.append({"title": meta["title"], "path": path, "description": meta["description"], "date": str(meta.get("date", ""))})
     page = {"title": f"Guides: How to Watch Sports Without the Guesswork | {CFG['SITE_NAME']}", "h1": "Guides",
-            "description": "Plain-English guides to finding the right channel and legal streaming options for NFL, NBA, NHL, MLB, college football and NASCAR.",
+            "description": "Plain-English guides to finding the right channel and legal streaming options for NFL, NBA, NHL, MLB, college sports, NASCAR and soccer.",
             "priority": "0.6", "crumbs": [("Home", "/"), ("Guides", "/guides/")]}
     page["ld"] = ld_json([], {**page, "path": "/guides/"})
     write("/guides/", "guides.html", page=page, guides=sorted(guides, key=lambda g: g["date"], reverse=True))
