@@ -9,7 +9,7 @@ faq:
   - q: "What channel is Michigan State vs Arkansas on Thanksgiving?"
     a: "No. 20 Arkansas vs No. 2 Michigan State is Thanksgiving Day, Thursday, Nov 26 at 4:30 p.m. ET on CBS, at Little Caesars Arena in Detroit. CBS is a free broadcast network, so an antenna works."
   - q: "What channel is the Players Era 16 on?"
-    a: "The Players Era 16 opens Tuesday, Nov 24 in Las Vegas on ESPN, ESPN2 and ESPNU, starting with No. 14 Tennessee vs Maryland on ESPN and No. 17 Miami vs TCU on ESPNU at 3 p.m. ET. Later rounds on Nov 26-28, including the championship Saturday, Nov 28 at 10:30 p.m. ET, depend on results, and channels had not been posted as of Nov 17."
+    a: "The Players Era 16 opens Tuesday, Nov 24 in Las Vegas on ESPN, ESPN2 and ESPNU, starting with No. 14 Tennessee vs Maryland on ESPN and No. 17 Miami vs TCU on ESPNU at 3 p.m. ET. Later rounds on Nov 26-28, including the championship Saturday, Nov 28 at 10:30 p.m. ET, depend on results, and channels had not been posted as of Nov 19."
   - q: "What channel is the Battle 4 Atlantis on in 2026?"
     a: "Battle 4 Atlantis games in Nassau are on ESPN, ESPN2 and ESPNU. No. 4 Virginia vs Marquette is Wednesday, Nov 25 at noon ET on ESPN, and Virginia vs Xavier is Friday, Nov 27 at 11 a.m. ET on ESPN2."
   - q: "What channel is Villanova vs Kansas on?"
@@ -17,7 +17,7 @@ faq:
   - q: "What channel is Vanderbilt vs Ohio State on?"
     a: "No. 15 Vanderbilt at Ohio State is Tuesday, Nov 24 at 7 p.m. ET and streams only on Peacock, not on NBC."
   - q: "What channel is the Maui Invitational on Nov 24-25?"
-    a: "The Maui Invitational's second-round and placement games on Nov 24-25, including the championship Wednesday at 2:30 p.m. ET, are set by Monday's results. ESPN had not listed their channels as of Nov 17."
+    a: "The Maui Invitational's second-round and placement games on Nov 24-25, including the championship Wednesday at 2:30 p.m. ET, are set by Monday's results. ESPN had not listed their channels as of Nov 19."
 ---
 **Short answer:** The game of the week is **No. 3 UConn vs No. 5 Duke** in Las Vegas, which streams on **Prime Video** (Wednesday, Nov 25, 7 p.m. ET). On **Thanksgiving Day**, **No. 20 Arkansas vs No. 2 Michigan State** is on **CBS** at 4:30 p.m. ET. The **Players Era 16** in Las Vegas opens Tuesday on **ESPN**, **ESPN2** and **ESPNU** with Tennessee, Michigan, Texas Tech, Louisville, Alabama, St. John's and Gonzaga, and the **Battle 4 Atlantis** with No. 4 Virginia is on the ESPN networks. Texas and UCLA play in San Diego on **FS1**, **No. 15 Vanderbilt at Ohio State** is **Peacock**-only, and No. 1 Florida's home game streams only on **SEC Network+**.
 
@@ -49,7 +49,7 @@ All times are Eastern Standard Time. This lists every men's Division I game ESPN
 | Wed, Nov 25 | 10:00 a.m. | St. Bonaventure vs Belmont (ESPN Events Invitational - Adventure Bracket, Kissimmee) | ESPN2 |
 | Wed, Nov 25 | 12:00 p.m. | No. 4 Virginia vs Marquette (Battle 4 Atlantis - Signature Series, Nassau) | ESPN |
 | Wed, Nov 25 | 12:30 p.m. | Yale vs Wright State (ESPN Events Invitational - Adventure Bracket, Kissimmee) | ESPN2 |
-| Wed, Nov 25 | 2:00 p.m. | Arizona State vs No. 25 LSU (Acrisure Series, Palm Springs) | TV TBA |
+| Wed, Nov 25 | 2:00 p.m. | Arizona State vs No. 25 LSU (Acrisure Series, Palm Springs) | CBS Sports Network |
 | Wed, Nov 25 | 2:30 p.m. | Texas A&M vs Xavier (Battle 4 Atlantis - Signature Series, Nassau) | ESPN2 |
 | Wed, Nov 25 | 3:00 p.m. | Akron vs App State (ESPN Events Invitational - Adventure Bracket, Kissimmee) | ESPNU |
 | Wed, Nov 25 | 4:30 p.m. | South Carolina vs No. 18 USC (Acrisure Series, Palm Springs) | CBS Sports Network |
@@ -63,7 +63,7 @@ All times are Eastern Standard Time. This lists every men's Division I game ESPN
 | Thu, Nov 26 | 4:30 p.m. | No. 20 Arkansas vs No. 2 Michigan State | CBS |
 | Thu, Nov 26 | 4:30 p.m. | Utah State vs No. 18 USC (Acrisure Series, Palm Springs) | CBS Sports Network |
 | Thu, Nov 26 | 5:00 p.m. | Saint Mary's vs No. 7 UCLA (Rady Children's Invitational, San Diego) | FS1 |
-| Thu, Nov 26 | 7:00 p.m. | SMU vs No. 25 LSU (Acrisure Series, Palm Springs) | TV TBA |
+| Thu, Nov 26 | 7:00 p.m. | SMU vs No. 25 LSU (Acrisure Series, Palm Springs) | CBS Sports Network |
 | Fri, Nov 27 | 11:00 a.m. | No. 4 Virginia vs Xavier (Battle 4 Atlantis - Signature Series, Nassau) | ESPN2 |
 | Fri, Nov 27 | 2:00 p.m. | Southern at No. 15 Vanderbilt | SEC Network+ (ESPN app) |
 | Fri, Nov 27 | 5:00 p.m. | Villanova at No. 11 Kansas | ESPN2 |
@@ -77,19 +77,19 @@ All times are Eastern Standard Time. This lists every men's Division I game ESPN
 | Sun, Nov 29 | 4:00 p.m. | Queens University at No. 8 Houston | ESPN+ |
 | Mon, Nov 30 | 6:30 p.m. | Rider at No. 3 UConn | FS1 |
 
-*ESPN listed Gonzaga vs Kansas State at 12:30 a.m. ET Wednesday, which is Tuesday night at 9:30 p.m. local time in Las Vegas. Two LSU games in Palm Springs had no channel listed yet.*
+*ESPN listed Gonzaga vs Kansas State at 12:30 a.m. ET Wednesday, which is Tuesday night at 9:30 p.m. local time in Las Vegas.*
 
 ## Players Era 16: the rest of the bracket
 
-The Players Era 16 (Tennessee, Maryland, Miami, TCU, Creighton, Michigan, San Diego State, Iowa State, Texas Tech, Louisville, Baylor, Alabama, Oregon, St. John's, Gonzaga and Kansas State) is split between Michelob ULTRA Arena and T-Mobile Arena in Las Vegas. All eight first-round games on Nov 24-25 are on ESPN, ESPN2 or ESPNU (see the table). Second-round games are Thanksgiving Day, Thursday, Nov 26 (1:30, 3:30, 6, 9 and 11:30 p.m. ET), the placement games and bracket finals are Friday, Nov 27, and the championship is **Saturday, Nov 28 at 10:30 p.m. ET** at Michelob ULTRA Arena. Matchups depend on earlier results, and ESPN had not posted channels for those games as of Nov 17.
+The Players Era 16 (Tennessee, Maryland, Miami, TCU, Creighton, Michigan, San Diego State, Iowa State, Texas Tech, Louisville, Baylor, Alabama, Oregon, St. John's, Gonzaga and Kansas State) is split between Michelob ULTRA Arena and T-Mobile Arena in Las Vegas. All eight first-round games on Nov 24-25 are on ESPN, ESPN2 or ESPNU (see the table). Second-round games are Thanksgiving Day, Thursday, Nov 26 (1:30, 3:30, 6, 9 and 11:30 p.m. ET), the placement games and bracket finals are Friday, Nov 27, and the championship is **Saturday, Nov 28 at 10:30 p.m. ET** at Michelob ULTRA Arena. Matchups depend on earlier results, and ESPN had not posted channels for those games as of Nov 19. Our [Thanksgiving Day sports TV guide](/guides/what-sports-are-on-tv-thanksgiving-2026-nfl-college-football-basketball-what-channel/) lists every Thanksgiving game, football included.
 
 ## Battle 4 Atlantis, Maui and the other Feast Week events
 
 - **Battle 4 Atlantis (Nassau, Bahamas):** The Signature Series has No. 4 Virginia, Marquette, Texas A&M and Xavier, and the Championship Bracket has Memphis, Penn State, Wake Forest and Mississippi State. Wednesday's games are on ESPN, ESPN2 and ESPNU. Friday's Championship Bracket games (1:30 and 7:30 p.m. ET) are set by Wednesday's results, with channels not yet listed.
-- **Maui Invitational (Lahaina):** Monday's first round is in our [Nov 17-23 schedule](/guides/college-basketball-tv-schedule-nov-17-23-2026-illinois-duke-players-era-what-channel/). Tuesday's second round and Wednesday's placement games, including the 2:30 p.m. ET championship, had no channels listed as of Nov 17.
+- **Maui Invitational (Lahaina):** Monday's first round is in our [Nov 17-23 schedule](/guides/college-basketball-tv-schedule-nov-17-23-2026-illinois-duke-players-era-what-channel/). Tuesday's second round and Wednesday's placement games, including the 2:30 p.m. ET championship, had no channels listed as of Nov 19.
 - **ESPN Events Invitational (Kissimmee):** The Adventure Bracket is on ESPN2 and ESPNU on Nov 24-25, and Georgia vs Cincinnati (ESPN) and Boston College vs UCF (ESPN2) open the Magic Bracket on Thanksgiving.
 - **Rady Children's Invitational (San Diego):** No. 6 Texas vs Georgetown and No. 7 UCLA vs Saint Mary's are on FS1 on Thanksgiving. Friday's championship and consolation games are set by those results.
-- **Acrisure Series (Palm Springs):** Most games are on CBS Sports Network, including both No. 18 USC games.
+- **Acrisure Series (Palm Springs):** Most games are on CBS Sports Network, including both No. 18 USC games and both No. 25 LSU games.
 
 ## Why you might not find your game on TV
 
@@ -118,4 +118,4 @@ Lineups vary by ZIP code, so check a service's channel list for your address bef
 
 Last week's games, including Illinois at Duke and Maui's first round, are in our [Nov 17-23 college basketball TV schedule](/guides/college-basketball-tv-schedule-nov-17-23-2026-illinois-duke-players-era-what-channel/). Thanksgiving football is in the [NFL Week 12 TV schedule](/guides/nfl-week-12-2026-tv-schedule-thanksgiving-games-what-channel/) and the [college football Rivalry Week schedule](/guides/college-football-week-13-2026-tv-schedule-rivalry-week-black-friday-what-channel/). The [NBA Cup schedule](/guides/nba-cup-2026-tv-schedule-what-channel-every-game-is-on/) and [NHL national TV schedule](/guides/what-channel-are-nhl-games-on-2026-27-national-tv-schedule/) cover the pros, and the [tonight page](/) lists every game's channel each night.
 
-*Schedule source: ESPN men's college basketball scoreboard listings as of Nov 17, 2026. Times and channels can change, so confirm with your provider before tip-off.*
+*Schedule source: ESPN men's college basketball scoreboard listings as of Nov 17, 2026, rechecked Nov 19. Times and channels can change, so confirm with your provider before tip-off.*
