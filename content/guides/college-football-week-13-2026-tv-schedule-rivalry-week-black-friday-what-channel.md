@@ -17,7 +17,13 @@ faq:
   - q: "Is there a college football game on Thanksgiving?"
     a: "Yes. TCU at Texas Tech is Thursday, Nov 26 (Thanksgiving night) at 8 p.m. ET on ESPN."
   - q: "What channel is the Iron Bowl (Auburn vs Alabama) on?"
-    a: "Auburn at Alabama is Saturday, Nov 28 on ABC. As of Nov 21 the kickoff time hasn't been announced. Georgia Tech at Georgia, South Carolina at Clemson, Washington at Oregon, LSU at Arkansas and Tennessee at Vanderbilt are still waiting on both a time and a channel, and our college football tonight page shows each one as soon as it is set."
+    a: "Auburn at Alabama is Saturday, Nov 28 at 7:30 p.m. ET on ABC. ABC is a free broadcast network, so an antenna gets it."
+  - q: "What channel is Georgia Tech vs Georgia on?"
+    a: "Georgia Tech at Georgia is Saturday, Nov 28 at 3:30 p.m. ET on ABC."
+  - q: "What channel is Washington vs Oregon on?"
+    a: "Washington at Oregon is Saturday, Nov 28 at 7:30 p.m. ET on NBC. Peacock also streams NBC's college football games."
+  - q: "What channel is South Carolina vs Clemson on?"
+    a: "South Carolina at Clemson is Saturday, Nov 28 at 3 p.m. ET on ESPN2. Tennessee at Vanderbilt is at 7 p.m. on ESPN, Louisville at Kentucky is at noon on ESPN2, and LSU at Arkansas is at 12:45 p.m. on SEC Network."
   - q: "What channel is USC vs UCLA on?"
     a: "USC at UCLA is Saturday, Nov 28 at 3:30 p.m. ET on CBS. Paramount+ also streams CBS in most markets."
   - q: "What channel is Notre Dame vs Syracuse on?"
@@ -25,11 +31,11 @@ faq:
   - q: "Are there MACtion games on Tuesday of Thanksgiving week?"
     a: "Yes. On Tuesday, Nov 24, Miami (OH) at Western Michigan is at 7 p.m. ET on ESPN2 and Kent State at Eastern Michigan is at 7 p.m. ET streaming on ESPN+."
 ---
-**Short answer:** Rivalry week starts on **Thanksgiving night with TCU at Texas Tech on ESPN** (8 p.m. ET Thursday). **Black Friday** has **Mississippi State at Ole Miss on ABC** and **Nebraska at Iowa on CBS** (both noon), **Florida at Florida State on ABC** (3:30 p.m.), **Texas at Texas A&M on ABC** and **Minnesota at Wisconsin on NBC** (both 7:30 p.m.) and **West Virginia at Utah on FOX** (9 p.m.). On Saturday, **Michigan at Ohio State is at noon on FOX**, **Notre Dame at Syracuse is at noon on ABC**, **USC at UCLA is at 3:30 p.m. on CBS** and **Arizona State at Arizona is at 9 p.m. on FOX**. The **Iron Bowl is on ABC** with the kickoff time still TBA, and Georgia Tech at Georgia, South Carolina at Clemson and Washington at Oregon were still waiting on a channel as of Nov 21. Our [college football tonight page](/college-football/) updates every game's channel daily.
+**Short answer:** Rivalry week starts on **Thanksgiving night with TCU at Texas Tech on ESPN** (8 p.m. ET Thursday). **Black Friday** has **Mississippi State at Ole Miss on ABC** and **Nebraska at Iowa on CBS** (both noon), **Florida at Florida State on ABC** (3:30 p.m.), **Texas at Texas A&M on ABC** and **Minnesota at Wisconsin on NBC** (both 7:30 p.m.) and **West Virginia at Utah on FOX** (9 p.m.). On Saturday, **Michigan at Ohio State is at noon on FOX**, **Notre Dame at Syracuse is at noon on ABC**, **USC at UCLA is at 3:30 p.m. on CBS** and **Arizona State at Arizona is at 9 p.m. on FOX**. Later Saturday, **Georgia Tech at Georgia is at 3:30 p.m. on ABC**, the **Iron Bowl (Auburn at Alabama) is at 7:30 p.m. on ABC** and **Washington at Oregon is at 7:30 p.m. on NBC**. South Carolina at Clemson (3 p.m., ESPN2), Purdue at Indiana (7 p.m., FS1) and Tennessee at Vanderbilt (7 p.m., ESPN) round out the night. Our [college football tonight page](/college-football/) updates every game's channel daily.
 
 ## Rivalry week TV schedule: games with a channel
 
-All times are Eastern Standard Time. This covers every FBS game ESPN lists for Tuesday, Nov 24 through Saturday, Nov 28 that has a kickoff time and channel (updated Nov 21).
+All times are Eastern Standard Time. This covers every FBS game ESPN lists for Tuesday, Nov 24 through Saturday, Nov 28 that has a kickoff time and channel (updated Nov 22). As of Nov 22, every FBS game with a known opponent has a time and a channel, including the Iron Bowl.
 
 | Date | Time (ET) | Matchup | TV / stream |
 |---|---|---|---|
@@ -57,7 +63,9 @@ All times are Eastern Standard Time. This covers every FBS game ESPN lists for T
 | Sat, Nov 28 | Noon | Navy at Charlotte | ESPN+ |
 | Sat, Nov 28 | Noon | Central Michigan at Ball State | CBS Sports Network |
 | Sat, Nov 28 | Noon | Louisiana Tech at Georgia Southern | ESPNU |
+| Sat, Nov 28 | Noon | Louisville at Kentucky | ESPN2 |
 | Sat, Nov 28 | 12:30 p.m. | Illinois at Northwestern | Big Ten Network |
+| Sat, Nov 28 | 12:45 p.m. | LSU at Arkansas | SEC Network |
 | Sat, Nov 28 | 1:00 p.m. | Florida Atlantic at East Carolina | ESPN+ |
 | Sat, Nov 28 | 1:00 p.m. | Kennesaw State at Western Kentucky | ESPN+ |
 | Sat, Nov 28 | 1:00 p.m. | Marshall at UL Monroe | ESPN+ |
@@ -72,6 +80,7 @@ All times are Eastern Standard Time. This covers every FBS game ESPN lists for T
 | Sat, Nov 28 | 2:00 p.m. | New Mexico State at Middle Tennessee | ESPN+ |
 | Sat, Nov 28 | 3:00 p.m. | Virginia at Virginia Tech | The CW |
 | Sat, Nov 28 | 3:00 p.m. | Troy at Arkansas State | ESPN+ |
+| Sat, Nov 28 | 3:00 p.m. | South Carolina at Clemson | ESPN2 |
 | Sat, Nov 28 | 3:30 p.m. | USC at UCLA | CBS |
 | Sat, Nov 28 | 3:30 p.m. | Cincinnati at BYU | FOX |
 | Sat, Nov 28 | 3:30 p.m. | Penn State at Maryland | FS1 |
@@ -79,41 +88,24 @@ All times are Eastern Standard Time. This covers every FBS game ESPN lists for T
 | Sat, Nov 28 | 3:30 p.m. | UTEP at Northern Illinois | Mountain West Network (MW+) |
 | Sat, Nov 28 | 3:30 p.m. | Massachusetts at Bowling Green | ESPN+ |
 | Sat, Nov 28 | 3:30 p.m. | Jacksonville State at Delaware | CBS Sports Network |
+| Sat, Nov 28 | 3:30 p.m. | Georgia Tech at Georgia | ABC |
+| Sat, Nov 28 | 3:30 p.m. | Duke at Wake Forest | ESPN |
+| Sat, Nov 28 | 3:30 p.m. | SMU at Stanford | ACC Network |
 | Sat, Nov 28 | 4:00 p.m. | UAB at North Texas | ESPNU |
 | Sat, Nov 28 | 4:15 p.m. | Oklahoma at Missouri | SEC Network |
 | Sat, Nov 28 | 4:15 p.m. | Michigan State at Rutgers | Big Ten Network |
 | Sat, Nov 28 | 6:15 p.m. | Kansas at Oklahoma State | ESPN2 |
+| Sat, Nov 28 | 7:00 p.m. | Purdue at Indiana | FS1 |
+| Sat, Nov 28 | 7:00 p.m. | Tennessee at Vanderbilt | ESPN |
 | Sat, Nov 28 | 7:30 p.m. | Pittsburgh at California | ACC Network |
+| Sat, Nov 28 | 7:30 p.m. | Auburn at Alabama | ABC |
+| Sat, Nov 28 | 7:30 p.m. | Washington at Oregon | NBC |
 | Sat, Nov 28 | 9:00 p.m. | Arizona State at Arizona | FOX |
 | Sat, Nov 28 | 9:00 p.m. | Nevada at UNLV | CBS Sports Network |
 | Sat, Nov 28 | 9:30 p.m. | Baylor at Houston | ESPN2 |
 | Sat, Nov 28 | 11:00 p.m. | Sacramento State at Hawai'i | Mountain West Network (MW+) |
 
-## The Iron Bowl: channel set, kickoff time not yet
-
-| Date | Kickoff (ET) | Matchup | TV / stream |
-|---|---|---|---|
-| Sat, Nov 28 | TBA | Auburn at Alabama | ABC |
-
-ABC has Auburn at Alabama, but as of Nov 21 the kickoff time hasn't been announced. SEC and ABC usually set it after the previous Saturday's games.
-
-## Rivalry Saturday games still waiting on a channel
-
-As of Nov 21, ESPN had not listed a channel or kickoff time for these games. Networks typically pick them six days out, so expect them after this Saturday's games. We'll update this page when they're set.
-
-| Date | Kickoff (ET) | Matchup | TV |
-|---|---|---|---|
-| Sat, Nov 28 | TBA | Georgia Tech at Georgia | TBA |
-| Sat, Nov 28 | TBA | Purdue at Indiana | TBA |
-| Sat, Nov 28 | TBA | Tennessee at Vanderbilt | TBA |
-| Sat, Nov 28 | TBA | Duke at Wake Forest | TBA |
-| Sat, Nov 28 | TBA | Washington at Oregon | TBA |
-| Sat, Nov 28 | TBA | Louisville at Kentucky | TBA |
-| Sat, Nov 28 | TBA | South Carolina at Clemson | TBA |
-| Sat, Nov 28 | TBA | LSU at Arkansas | TBA |
-| Sat, Nov 28 | TBA | SMU at Stanford | TBA |
-
-ESPN also lists games at Colorado State, Fresno State, Utah State and Washington State whose opponents had not been posted yet.
+ESPN also lists games at Colorado State, Fresno State, Utah State and Washington State whose opponents and kickoff times had not been posted as of Nov 22.
 
 ## Why rivalry week is confusing to find on TV
 
@@ -121,19 +113,19 @@ ESPN also lists games at Colorado State, Fresno State, Utah State and Washington
 - **Holiday kickoffs on broadcast TV:** ABC, CBS, NBC and FOX all have Friday games, so an antenna covers most of Black Friday's big matchups for free.
 - **ESPN+ only:** 17 games stream only in the ESPN app, not on a TV channel, including Kent State at Eastern Michigan (Tuesday), App State at South Alabama (Friday), Kansas State at Iowa State, Army at Rice, Navy at Charlotte and Tulane at South Florida.
 - **The CW, TNT and CBS Sports Network:** Air Force at New Mexico and Virginia at Virginia Tech are on The CW, a free broadcast network in most markets. UCF at Colorado is on TNT. Buffalo at Akron, North Dakota State at San José State, Central Michigan at Ball State, Jacksonville State at Delaware and Nevada at UNLV are on CBS Sports Network, a cable channel.
-- **Conference networks:** NC State at North Carolina and Pittsburgh at California are on ACC Network, Oklahoma at Missouri is on SEC Network, and Illinois at Northwestern and Michigan State at Rutgers are on Big Ten Network.
+- **Conference networks:** NC State at North Carolina, SMU at Stanford and Pittsburgh at California are on ACC Network, Oklahoma at Missouri and LSU at Arkansas are on SEC Network, and Illinois at Northwestern and Michigan State at Rutgers are on Big Ten Network.
 - **Mountain West Network (MW+):** Sacramento State at Hawai'i and UTEP at Northern Illinois are listed on the Mountain West's own streaming network rather than a TV channel.
 
 ## How to watch rivalry week without cable
 
 All of these are legal, licensed options:
 
-- **Antenna (free):** ABC, CBS, NBC, FOX and The CW are broadcast networks. [An HDTV antenna](/go/antenna/) picks up Michigan at Ohio State, the Iron Bowl, Notre Dame at Syracuse, USC at UCLA, Texas at Texas A&M, Florida at Florida State, the Egg Bowl, Nebraska at Iowa, Minnesota at Wisconsin and West Virginia at Utah free if you're in range.
+- **Antenna (free):** ABC, CBS, NBC, FOX and The CW are broadcast networks. [An HDTV antenna](/go/antenna/) picks up Michigan at Ohio State, the Iron Bowl, Georgia Tech at Georgia, Washington at Oregon, Notre Dame at Syracuse, USC at UCLA, Texas at Texas A&M, Florida at Florida State, the Egg Bowl, Nebraska at Iowa, Minnesota at Wisconsin and West Virginia at Utah free if you're in range.
 - **[Fubo](/go/fubo/):** carries ABC, CBS, FOX and NBC in most markets plus the ESPN networks, FS1, CBS Sports Network and the SEC, ACC and Big Ten networks.
 - **[YouTube TV](/go/youtube-tv/)**, **[Hulu + Live TV](/go/hulu-live/)** and **[DIRECTV Stream](/go/directv-stream/)** carry the broadcast networks and ESPN channels on this list. Check each lineup for The CW and CBS Sports Network in your ZIP code.
 - **[Sling TV](/go/sling/):** Sling Orange has ESPN and ESPN2 for TCU at Texas Tech, Miami (OH) at Western Michigan and Kansas at Oklahoma State, and TNT for UCF at Colorado. Pair it with an antenna for the broadcast games.
 - **[ESPN streaming](/go/espn/):** the ESPN app is the only way to watch the ESPN+ games above, and it also streams ESPN's TV channels on the right plan.
-- **[Peacock](/go/peacock/):** streams NBC's Minnesota at Wisconsin.
+- **[Peacock](/go/peacock/):** streams NBC's Minnesota at Wisconsin and Washington at Oregon.
 - **[Paramount+](/go/paramount-plus/):** streams CBS's Nebraska at Iowa and USC at UCLA in most markets.
 - **[FOX One](/go/fox-one/)** streams FOX's Michigan at Ohio State, Cincinnati at BYU, Arizona State at Arizona and West Virginia at Utah, plus FS1's UConn at Wyoming and Penn State at Maryland.
 
@@ -141,6 +133,6 @@ Local channel lineups depend on your ZIP code, so check the service's lineup for
 
 ## Also on TV this week
 
-The weekend before is in our [college football Week 12 TV schedule](/guides/college-football-week-12-2026-tv-schedule-what-channel-every-game-is-on/). Next up is championship weekend: our [conference championship games TV schedule](/guides/college-football-conference-championship-games-2026-tv-schedule-sec-big-ten-what-channel/) has the SEC, Big Ten, ACC, Big 12 and every other title game's channel for Dec. 4-5. Thanksgiving's NFL games (including Netflix on Thanksgiving Eve) are in the [NFL Week 12 TV schedule](/guides/nfl-week-12-2026-tv-schedule-thanksgiving-games-what-channel/), and college hoops is in the [college basketball TV schedule for Nov 17-23](/guides/college-basketball-tv-schedule-nov-17-23-2026-illinois-duke-players-era-what-channel/). The [NBA Cup schedule](/guides/nba-cup-2026-tv-schedule-what-channel-every-game-is-on/), [MLS Cup Playoffs schedule](/guides/mls-cup-playoffs-2026-tv-schedule-what-channel-every-game-is-on/) and [NHL national TV schedule](/guides/what-channel-are-nhl-games-on-2026-27-national-tv-schedule/) cover the rest, and the [tonight page](/) lists every game's channel each night.
+The weekend before is in our [college football Week 12 TV schedule](/guides/college-football-week-12-2026-tv-schedule-what-channel-every-game-is-on/). Next up is championship weekend: our [conference championship games TV schedule](/guides/college-football-conference-championship-games-2026-tv-schedule-sec-big-ten-what-channel/) has the SEC, Big Ten, ACC, Big 12 and every other title game's channel for Dec. 4-5. After that comes bowl season: see the [2026-27 bowl schedule with TV channels](/guides/college-football-bowl-schedule-2026-27-tv-channels-what-channel-every-bowl-game-is-on/). Thanksgiving's NFL games (including Netflix on Thanksgiving Eve) are in the [NFL Week 12 TV schedule](/guides/nfl-week-12-2026-tv-schedule-thanksgiving-games-what-channel/), and college hoops is in the [college basketball TV schedule for Nov 17-23](/guides/college-basketball-tv-schedule-nov-17-23-2026-illinois-duke-players-era-what-channel/). The [NBA Cup schedule](/guides/nba-cup-2026-tv-schedule-what-channel-every-game-is-on/), [MLS Cup Playoffs schedule](/guides/mls-cup-playoffs-2026-tv-schedule-what-channel-every-game-is-on/) and [NHL national TV schedule](/guides/what-channel-are-nhl-games-on-2026-27-national-tv-schedule/) cover the rest, and the [tonight page](/) lists every game's channel each night.
 
-*Schedule source: ESPN college football (FBS) scoreboard listings as of Nov 16, 2026, refreshed Nov 21, 2026. Times and channels can change, so confirm with your provider before kickoff.*
+*Schedule source: ESPN college football (FBS) scoreboard listings as of Nov 16, 2026, refreshed Nov 21 and Nov 22, 2026. Times and channels can change, so confirm with your provider before kickoff.*

@@ -79,7 +79,7 @@ The selection show on Sunday, Dec. 6 sets the bracket. ESPN already lists the TV
 | Sat, Dec 19 | 3:30 p.m. | CFP first round | TNT and truTV |
 | Sat, Dec 19 | 7:30 p.m. | CFP first round | TNT and truTV |
 
-Two of the first-round games are on TNT and truTV, not an ESPN channel, so an antenna won't get them. [Sling TV](/go/sling/), [YouTube TV](/go/youtube-tv/), [Hulu + Live TV](/go/hulu-live/) and [DIRECTV Stream](/go/directv-stream/) carry TNT, and [HBO Max](/go/hbo-max/) streams TNT Sports' games. The CFP national championship is Monday, Jan. 25, 2027 at 7:30 p.m. ET on ABC from Allegiant Stadium in Las Vegas.
+Two of the first-round games are on TNT and truTV, not an ESPN channel, so an antenna won't get them. [Sling TV](/go/sling/), [YouTube TV](/go/youtube-tv/), [Hulu + Live TV](/go/hulu-live/) and [DIRECTV Stream](/go/directv-stream/) carry TNT, and [HBO Max](/go/hbo-max/) streams TNT Sports' games. The CFP national championship is Monday, Jan. 25, 2027 at 7:30 p.m. ET on ABC from Allegiant Stadium in Las Vegas. Every bowl game's date, time and channel, plus the rest of the playoff, is in our [2026-27 bowl schedule TV guide](/guides/college-football-bowl-schedule-2026-27-tv-channels-what-channel-every-bowl-game-is-on/).
 
 ## Also on TV that weekend
 
