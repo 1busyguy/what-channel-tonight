@@ -15,7 +15,7 @@ faq:
   - q: "What time is Manchester City vs Fulham?"
     a: "Manchester City hosts Fulham at the Etihad Stadium on Saturday, Nov 21 at 7:30 a.m. ET (4:30 a.m. PT) on USA Network."
   - q: "When is Arsenal vs Manchester City?"
-    a: "Arsenal hosts Manchester City at the Emirates Stadium in Matchweek 12 on Sunday, Nov 29 at 11:30 a.m. ET. NBC Sports hasn't announced the US channel yet; every game is on NBC, USA Network or Peacock."
+    a: "Arsenal hosts Manchester City at the Emirates Stadium in Matchweek 12 on Sunday, Nov 29 at 11:30 a.m. ET. It's on USA Network in the US."
   - q: "What channel is Brentford vs Everton on Monday?"
     a: "Brentford hosts Everton at the Gtech Community Stadium on Monday, Nov 23 at 3:00 p.m. ET on USA Network."
 ---
@@ -51,20 +51,20 @@ Records are wins-draws-losses from ESPN's Premier League listings as of Nov 18.
 
 ## Next weekend: Matchweek 12 kickoff times (Nov 27 - Nov 29)
 
-NBC Sports hasn't posted US channels for Matchweek 12 yet, so the channel column says TBA until it does. Every game will be on NBC, USA Network or Peacock.
+NBC Sports has now posted the Matchweek 12 US channels (updated Nov 24). Arsenal vs Manchester City and Everton vs Liverpool are on USA Network, and two games are Peacock-only. The full Matchweek 12 and midweek Matchweek 13 schedule is in our [Matchweeks 12-13 TV schedule](/guides/premier-league-tv-schedule-matchweek-12-13-2026-arsenal-man-city-what-channel/).
 
 | Date | Time (ET) | Match | Stadium | US TV / stream |
 |---|---|---|---|---|
-| Fri, Nov 27 | 3:00 p.m. | Nottingham Forest vs Chelsea | The City Ground | TBA |
-| Sat, Nov 28 | 10:00 a.m. | Leeds United vs Coventry City | Elland Road | TBA |
-| Sat, Nov 28 | 10:00 a.m. | Manchester United vs Brentford | Old Trafford | TBA |
-| Sat, Nov 28 | 12:30 p.m. | Ipswich Town vs Aston Villa | Portman Road | TBA |
-| Sun, Nov 29 | 7:00 a.m. | Everton vs Liverpool | Hill Dickinson Stadium | TBA |
-| Sun, Nov 29 | 9:05 a.m. | Brighton & Hove Albion vs Newcastle United | American Express Stadium | TBA |
-| Sun, Nov 29 | 9:05 a.m. | Crystal Palace vs Hull City | Selhurst Park | TBA |
-| Sun, Nov 29 | 9:05 a.m. | Sunderland vs Tottenham Hotspur | Stadium of Light | TBA |
-| Sun, Nov 29 | 9:05 a.m. | Fulham vs AFC Bournemouth | Craven Cottage | TBA |
-| Sun, Nov 29 | 11:30 a.m. | Arsenal vs Manchester City | Emirates Stadium | TBA |
+| Fri, Nov 27 | 3:00 p.m. | Nottingham Forest vs Chelsea | The City Ground | USA Network |
+| Sat, Nov 28 | 10:00 a.m. | Leeds United vs Coventry City | Elland Road | USA Network |
+| Sat, Nov 28 | 10:00 a.m. | Manchester United vs Brentford | Old Trafford | NBCSN, Peacock |
+| Sat, Nov 28 | 12:30 p.m. | Ipswich Town vs Aston Villa | Portman Road | USA Network |
+| Sun, Nov 29 | 7:00 a.m. | Everton vs Liverpool | Hill Dickinson Stadium | USA Network |
+| Sun, Nov 29 | 9:05 a.m. | Brighton & Hove Albion vs Newcastle United | American Express Stadium | USA Network |
+| Sun, Nov 29 | 9:05 a.m. | Crystal Palace vs Hull City | Selhurst Park | Peacock only |
+| Sun, Nov 29 | 9:05 a.m. | Sunderland vs Tottenham Hotspur | Stadium of Light | NBCSN, Peacock |
+| Sun, Nov 29 | 9:05 a.m. | Fulham vs AFC Bournemouth | Craven Cottage | Peacock only |
+| Sun, Nov 29 | 11:30 a.m. | Arsenal vs Manchester City | Emirates Stadium | USA Network |
 
 Matchweek 12 is the Thanksgiving weekend slate. It opens with Forest vs Chelsea on Black Friday afternoon and closes with **Arsenal vs Manchester City**, currently first against second, on Sunday, Nov 29. The Merseyside derby, **Everton vs Liverpool**, kicks off at 7 a.m. ET that morning. Three of the 9:05 a.m. games were moved to Sunday because of the clubs' Europa League and Conference League commitments.
 
