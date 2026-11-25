@@ -32,26 +32,33 @@ All times Eastern. Rankings are as listed by ESPN.
 | 12:00 p.m. | College basketball | Army at UTSA | ESPN+ |
 | **1:00 p.m.** | **NFL** | **[Bears](/nfl/chicago-bears/) at [Lions](/nfl/detroit-lions/)** | **CBS** |
 | 1:30 p.m. | College basketball | Boston College vs UCF (ESPN Events Invitational, Kissimmee) | ESPN2 |
-| 1:30 p.m. | College basketball | Players Era 16 (Las Vegas), first of eight games | ESPN networks |
+| 1:00 p.m. | College basketball | Maryland vs San Diego State (Players Era 16, Las Vegas) | ESPN |
 | 2:00 p.m. | College basketball | South Carolina vs Arizona State (Acrisure Series, Palm Springs) | CBS Sports Network |
 | 2:30 p.m. | College basketball | Georgetown vs No. 6 Texas (Rady Children's Invitational, San Diego) | FS1 |
+| 3:30 p.m. | College basketball | Tennessee vs Iowa State (Players Era 16 semifinal) | ESPN |
+| 3:30 p.m. | College basketball | Miami vs Michigan (Players Era 16) | ESPN2 |
 | **4:30 p.m.** | **NFL** | **[Eagles](/nfl/philadelphia-eagles/) at [Cowboys](/nfl/dallas-cowboys/)** | **FOX** |
 | **4:30 p.m.** | **College basketball** | **No. 20 Arkansas vs No. 2 Michigan State (Detroit)** | **CBS** |
 | 4:30 p.m. | College basketball | Utah State vs No. 18 USC (Acrisure Series, Palm Springs) | CBS Sports Network |
 | 5:00 p.m. | College basketball | Saint Mary's vs No. 7 UCLA (Rady Children's Invitational, San Diego) | FS1 |
+| 6:00 p.m. | College basketball | TCU vs Creighton (Players Era 16 semifinal) | ESPN |
 | 7:00 p.m. | College basketball | SMU vs No. 25 LSU (Acrisure Series, Palm Springs) | CBS Sports Network |
 | 7:00 p.m. | College basketball | DePaul vs Pittsburgh (Fort Myers Tip-Off) | FS1 |
 | **8:00 p.m.** | **College football** | **TCU at No. 12 Texas Tech** | **ESPN** |
 | **8:20 p.m.** | **NFL** | **[Chiefs](/nfl/kansas-city-chiefs/) at [Bills](/nfl/buffalo-bills/)** | **NBC / Peacock** |
+| 9:00 p.m. | College basketball | St. John's vs Louisville (Players Era 16 semifinal) | ESPN2 |
+| 9:00 p.m. | College basketball | Alabama vs Gonzaga/Kansas State loser (Players Era 16) | ESPNU |
 | 10:30 p.m. | College basketball | Pacific vs Omaha (Resorts World Classic, Las Vegas) | FloSports |
+| 11:30 p.m. | College basketball | Baylor vs Gonzaga/Kansas State winner (Players Era 16 semifinal) | ESPN |
+| 11:30 p.m. | College basketball | Texas Tech vs Oregon (Players Era 16) | ESPN2 |
 
 The three NFL games and TCU at Texas Tech are national broadcasts, so they're on the same channel everywhere in the US. Full details for the rest of the NFL week, including Sunday's regional games, are in our [NFL Week 12 TV schedule](/guides/nfl-week-12-2026-tv-schedule-thanksgiving-games-what-channel/).
 
 ## Players Era 16 on Thanksgiving
 
-The Players Era 16 plays **eight games on Thanksgiving Day** in Las Vegas: four bracket semifinals and four consolation games, split between T-Mobile Arena and Michelob ULTRA Arena. ESPN lists tip times of **1:30, 3:30 (two games), 6:00, 9:00 (two games) and 11:30 p.m. ET (two games)**. The matchups depend on Tuesday's first round (Tennessee, Maryland, San Diego State, Iowa State, St. John's, Oregon, Louisville, Texas Tech, Gonzaga, Kansas State, Baylor, Alabama, Michigan, Creighton, TCU and Miami).
+The Players Era 16 plays **eight games on Thanksgiving Day** in Las Vegas: four bracket semifinals and four consolation games, split between T-Mobile Arena and Michelob ULTRA Arena. Every game is on an ESPN network. The semifinals are **Tennessee vs Iowa State (3:30 p.m. ET, ESPN)**, **TCU vs Creighton (6:00 p.m., ESPN)**, **St. John's vs Louisville (9:00 p.m., ESPN2)** and **Baylor vs the Gonzaga/Kansas State winner (11:30 p.m., ESPN)**. The consolation games are Maryland vs San Diego State (1:00 p.m., ESPN), Miami vs Michigan (3:30 p.m., ESPN2), Alabama vs the Gonzaga/Kansas State loser (9:00 p.m., ESPNU) and Texas Tech vs Oregon (11:30 p.m., ESPN2).
 
-ESPN holds the rights to all 37 Players Era games, so every one is on an **ESPN network**, but ESPN hadn't posted which channel carries each Thanksgiving game as of Nov 19. Check our [Feast Week college basketball schedule](/guides/college-basketball-tv-schedule-nov-24-30-2026-feast-week-duke-uconn-players-era-what-channel/) for the first-round channels and the [college basketball scores and channels on the tonight page](/) on the day.
+The bracket finals are Black Friday at 9:00 p.m. and 11:00 p.m. ET on ESPN, and the championship is Saturday, Nov 28 at 10:30 p.m. ET on ESPN. Our [Feast Week college basketball schedule](/guides/college-basketball-tv-schedule-nov-24-30-2026-feast-week-duke-uconn-players-era-what-channel/) has every Players Era game and channel through the final.
 
 ## Thanksgiving Eve (Wednesday, Nov 25)
 
@@ -101,7 +108,7 @@ Friday's other college football games (Buffalo at Akron and North Dakota State a
 - **ESPN vs ESPN+:** TCU at Texas Tech is on ESPN, the cable channel. Army at UTSA is on ESPN+, which streams only in [the ESPN app](/go/espn/).
 - **CBS vs CBS Sports Network:** Bears at Lions and Arkansas vs Michigan State are on CBS, the free broadcast network. The Acrisure Series games with USC and LSU are on CBS Sports Network, a separate cable channel.
 - **FOX vs FS1:** Eagles at Cowboys and Oklahoma vs Purdue are on FOX. Texas, UCLA and Pittsburgh are on FS1, a cable channel.
-- **The Players Era channels:** the Thanksgiving matchups aren't set until Tuesday's first round is played, and ESPN hadn't assigned each game to ESPN, ESPN2 or ESPNU as of Nov 19.
+- **ESPN, ESPN2 or ESPNU:** the eight Players Era games are spread across three ESPN channels, and three pairs tip at the same time (3:30, 9:00 and 11:30 p.m. ET), so check which channel your team is on.
 
 ## How to watch the Thanksgiving games without cable
 
@@ -110,7 +117,7 @@ All of these are legal, licensed options:
 - **[An HDTV antenna](/go/antenna/):** picks up CBS, FOX and NBC free, which covers all three Thanksgiving NFL games and Arkansas vs Michigan State.
 - **[Fubo](/go/fubo/):** carries CBS, FOX, NBC, ESPN, ESPN2 and FS1 in most markets, so it covers the whole Thanksgiving slate except the streaming-only games. Check your ZIP code for local channels.
 - **[YouTube TV](/go/youtube-tv/)**, **[Hulu + Live TV](/go/hulu-live/)** and **[DIRECTV Stream](/go/directv-stream/)** also carry local CBS, FOX and NBC plus ESPN and FS1 in most markets. Check each lineup for CBS Sports Network.
-- **[Sling TV](/go/sling/):** Sling Orange has ESPN and ESPN2 (TCU at Texas Tech and the Players Era) plus TNT and truTV for the NHL. Sling Blue has FS1 and carries FOX and NBC only in select markets, so pair it with an antenna.
+- **[Sling TV](/go/sling/):** Sling Orange has ESPN and ESPN2 (TCU at Texas Tech and all but one Players Era game) plus TNT and truTV for the NHL. Sling Blue has FS1 and carries FOX and NBC only in select markets, so pair it with an antenna.
 - **[Peacock](/go/peacock/)** streams NBC's Chiefs at Bills, **[Paramount+](/go/paramount-plus/)** streams CBS's games, and **[FOX One](/go/fox-one/)** streams FOX and FS1.
 - **[Netflix](/go/netflix/)** for Packers at Rams, **[Prime Video](/go/prime-video/)** for UConn vs Duke, Broncos at Steelers and the Black Friday NBA Cup games, and **[HBO Max](/go/hbo-max/)** for TNT's NHL doubleheader.
 
@@ -122,6 +129,7 @@ Lineups vary by ZIP code, so check a service's channel list for your address bef
 - [College football Rivalry Week TV schedule](/guides/college-football-week-13-2026-tv-schedule-rivalry-week-black-friday-what-channel/): Thanksgiving, Black Friday and Saturday's games.
 - [College basketball Feast Week TV schedule](/guides/college-basketball-tv-schedule-nov-24-30-2026-feast-week-duke-uconn-players-era-what-channel/): every Top 25 game Nov 24-30.
 - [NBA Cup TV schedule](/guides/nba-cup-2026-tv-schedule-what-channel-every-game-is-on/) and [NHL national TV schedule](/guides/what-channel-are-nhl-games-on-2026-27-national-tv-schedule/).
+- [Christmas 2026 sports TV guide](/guides/what-sports-are-on-tv-christmas-2026-nba-nfl-bowl-games-what-channel/): the five NBA Christmas games, the NFL on Netflix and FOX, and Dec 24-26 bowls.
 - [Premier League Matchweek 11 TV schedule](/guides/premier-league-tv-schedule-matchweek-11-2026-liverpool-man-united-what-channel/) for the weekend before.
 
-*Schedule source: ESPN NFL, college football, men's college basketball, NBA and NHL scoreboard listings as of Nov 19, 2026, with the NHL Thanksgiving Showdown confirmed by NHL.com and the Players Era format by ESPN and T-Mobile Arena. Times and channels can change, so confirm with your provider before kickoff.*
+*Schedule source: ESPN NFL, college football, men's college basketball, NBA and NHL scoreboard listings as of Nov 19, 2026, with the NHL Thanksgiving Showdown confirmed by NHL.com the Players Era format by ESPN and T-Mobile Arena, and Players Era Thanksgiving channels from the official schedule posted by Mandalay Bay and ESPN's matchups as of Nov 25. Times and channels can change, so confirm with your provider before kickoff.*

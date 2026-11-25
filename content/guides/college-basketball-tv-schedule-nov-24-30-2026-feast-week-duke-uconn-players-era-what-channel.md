@@ -9,7 +9,7 @@ faq:
   - q: "What channel is Michigan State vs Arkansas on Thanksgiving?"
     a: "No. 20 Arkansas vs No. 2 Michigan State is Thanksgiving Day, Thursday, Nov 26 at 4:30 p.m. ET on CBS, at Little Caesars Arena in Detroit. CBS is a free broadcast network, so an antenna works."
   - q: "What channel is the Players Era 16 on?"
-    a: "The Players Era 16 opens Tuesday, Nov 24 in Las Vegas on ESPN, ESPN2 and ESPNU, starting with No. 14 Tennessee vs Maryland on ESPN and No. 17 Miami vs TCU on ESPNU at 3 p.m. ET. Later rounds on Nov 26-28, including the championship Saturday, Nov 28 at 10:30 p.m. ET, depend on results, and channels had not been posted as of Nov 19."
+    a: "The Players Era 16 opens Tuesday, Nov 24 in Las Vegas on ESPN, ESPN2 and ESPNU, starting with No. 14 Tennessee vs Maryland on ESPN and No. 17 Miami vs TCU on ESPNU at 3 p.m. ET. Thanksgiving Day, Nov 26: Maryland vs San Diego State (1:00 p.m. ET, ESPN), Tennessee vs Iowa State (3:30 p.m., ESPN), Miami vs Michigan (3:30 p.m., ESPN2), TCU vs Creighton (6:00 p.m., ESPN), St. John's vs Louisville (9:00 p.m., ESPN2), Alabama vs the Gonzaga/Kansas State loser (9:00 p.m., ESPNU), Baylor vs the Gonzaga/Kansas State winner (11:30 p.m., ESPN) and Texas Tech vs Oregon (11:30 p.m., ESPN2). The bracket finals are Friday at 9:00 and 11:00 p.m. ET on ESPN, and the championship is Saturday, Nov 28 at 10:30 p.m. ET on ESPN."
   - q: "What channel is the Battle 4 Atlantis on in 2026?"
     a: "Battle 4 Atlantis games in Nassau are on ESPN, ESPN2 and ESPNU. No. 4 Virginia vs Marquette is Wednesday, Nov 25 at noon ET on ESPN, and Virginia vs Xavier is Friday, Nov 27 at 11 a.m. ET on ESPN2."
   - q: "What channel is Villanova vs Kansas on?"
@@ -81,7 +81,29 @@ All times are Eastern Standard Time. This lists every men's Division I game ESPN
 
 ## Players Era 16: the rest of the bracket
 
-The Players Era 16 (Tennessee, Maryland, Miami, TCU, Creighton, Michigan, San Diego State, Iowa State, Texas Tech, Louisville, Baylor, Alabama, Oregon, St. John's, Gonzaga and Kansas State) is split between Michelob ULTRA Arena and T-Mobile Arena in Las Vegas. All eight first-round games on Nov 24-25 are on ESPN, ESPN2 or ESPNU (see the table). Second-round games are Thanksgiving Day, Thursday, Nov 26 (1:30, 3:30, 6, 9 and 11:30 p.m. ET), the placement games and bracket finals are Friday, Nov 27, and the championship is **Saturday, Nov 28 at 10:30 p.m. ET** at Michelob ULTRA Arena. Matchups depend on earlier results, and ESPN still had not posted channels for those games as of Nov 24. Our [Thanksgiving Day sports TV guide](/guides/what-sports-are-on-tv-thanksgiving-2026-nfl-college-football-basketball-what-channel/) lists every Thanksgiving game, football included.
+The Players Era 16 is split between two Las Vegas arenas: Bracket 1 (Miami, TCU, Creighton, Michigan, Baylor, Alabama, Gonzaga, Kansas State) at T-Mobile Arena and Bracket 2 (Tennessee, Maryland, San Diego State, Iowa State, Texas Tech, Louisville, Oregon, St. John's) at Michelob ULTRA Arena. Tuesday's first round sent Tennessee, TCU, Creighton, Iowa State, Louisville, Baylor and St. John's to the semifinals; Gonzaga vs Kansas State finished after midnight. Every remaining game is on an ESPN network, per the official schedule posted by Mandalay Bay with matchups from ESPN's listings:
+
+| Date | Time (ET) | Matchup (round, arena) | TV |
+|---|---|---|---|
+| Thu, Nov 26 | 1:00 p.m. | Maryland vs San Diego State (consolation, Michelob ULTRA) | ESPN |
+| Thu, Nov 26 | 3:30 p.m. | Tennessee vs Iowa State (semifinal, Michelob ULTRA) | ESPN |
+| Thu, Nov 26 | 3:30 p.m. | Miami vs Michigan (consolation, T-Mobile) | ESPN2 |
+| Thu, Nov 26 | 6:00 p.m. | TCU vs Creighton (semifinal, T-Mobile) | ESPN |
+| Thu, Nov 26 | 9:00 p.m. | St. John's vs Louisville (semifinal, Michelob ULTRA) | ESPN2 |
+| Thu, Nov 26 | 9:00 p.m. | Alabama vs Gonzaga/Kansas State loser (consolation, T-Mobile) | ESPNU |
+| Thu, Nov 26 | 11:30 p.m. | Baylor vs Gonzaga/Kansas State winner (semifinal, T-Mobile) | ESPN |
+| Thu, Nov 26 | 11:30 p.m. | Texas Tech vs Oregon (consolation, Michelob ULTRA) | ESPN2 |
+| Fri, Nov 27 | 1:00 p.m. | Bracket 2 third-place game (Michelob ULTRA) | ESPN2 |
+| Fri, Nov 27 | 3:00 p.m. | Bracket 1 third-place game (T-Mobile) | ESPN2 |
+| Fri, Nov 27 | 3:30 p.m. | Bracket 2 seventh-place game (Michelob ULTRA) | ESPNU |
+| Fri, Nov 27 | 5:30 p.m. | Bracket 1 seventh-place game (T-Mobile) | ESPNU |
+| Fri, Nov 27 | 8:30 p.m. | Bracket 1 fifth-place game (T-Mobile) | ESPNU |
+| Fri, Nov 27 | 9:00 p.m. | **Bracket 2 final** (Michelob ULTRA) | ESPN |
+| Fri, Nov 27 | 11:00 p.m. | **Bracket 1 final** (T-Mobile) | ESPN |
+| Fri, Nov 27 | 11:30 p.m. | Bracket 2 fifth-place game (Michelob ULTRA) | ESPN2 |
+| Sat, Nov 28 | 10:30 p.m. | **Championship: Bracket 1 champion vs Bracket 2 champion** (Michelob ULTRA) | ESPN |
+
+Our [Thanksgiving Day sports TV guide](/guides/what-sports-are-on-tv-thanksgiving-2026-nfl-college-football-basketball-what-channel/) lists every Thanksgiving game, football included.
 
 ## Battle 4 Atlantis, Maui and the other Feast Week events
 
