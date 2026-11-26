@@ -9,9 +9,9 @@ faq:
   - q: "What channel is Michigan State vs Arkansas on Thanksgiving?"
     a: "No. 20 Arkansas vs No. 2 Michigan State is Thanksgiving Day, Thursday, Nov 26 at 4:30 p.m. ET on CBS, at Little Caesars Arena in Detroit. CBS is a free broadcast network, so an antenna works."
   - q: "What channel is the Players Era 16 on?"
-    a: "The Players Era 16 opens Tuesday, Nov 24 in Las Vegas on ESPN, ESPN2 and ESPNU, starting with No. 14 Tennessee vs Maryland on ESPN and No. 17 Miami vs TCU on ESPNU at 3 p.m. ET. Thanksgiving Day, Nov 26: Maryland vs San Diego State (1:00 p.m. ET, ESPN), Tennessee vs Iowa State (3:30 p.m., ESPN), Miami vs Michigan (3:30 p.m., ESPN2), TCU vs Creighton (6:00 p.m., ESPN), St. John's vs Louisville (9:00 p.m., ESPN2), Alabama vs the Gonzaga/Kansas State loser (9:00 p.m., ESPNU), Baylor vs the Gonzaga/Kansas State winner (11:30 p.m., ESPN) and Texas Tech vs Oregon (11:30 p.m., ESPN2). The bracket finals are Friday at 9:00 and 11:00 p.m. ET on ESPN, and the championship is Saturday, Nov 28 at 10:30 p.m. ET on ESPN."
+    a: "The Players Era 16 opens Tuesday, Nov 24 in Las Vegas on ESPN, ESPN2 and ESPNU, starting with No. 14 Tennessee vs Maryland on ESPN and No. 17 Miami vs TCU on ESPNU at 3 p.m. ET. Thanksgiving Day, Nov 26: Maryland vs San Diego State (1:00 p.m. ET, ESPN), Tennessee vs Iowa State (3:30 p.m., ESPN), Miami vs Michigan (3:30 p.m., ESPN2), TCU vs Creighton (6:00 p.m., ESPN), St. John's vs Louisville (9:00 p.m., ESPN2), Alabama vs Kansas State (9:00 p.m., ESPNU), Baylor vs Gonzaga (11:30 p.m., ESPN) and Texas Tech vs Oregon (11:30 p.m., ESPN2). The bracket finals are Friday at 9:00 and 11:00 p.m. ET on ESPN, and the championship is Saturday, Nov 28 at 10:30 p.m. ET on ESPN."
   - q: "What channel is the Battle 4 Atlantis on in 2026?"
-    a: "Battle 4 Atlantis games in Nassau are on ESPN, ESPN2 and ESPNU. No. 4 Virginia vs Marquette is Wednesday, Nov 25 at noon ET on ESPN, and Virginia vs Xavier is Friday, Nov 27 at 11 a.m. ET on ESPN2."
+    a: "Battle 4 Atlantis games in Nassau are on ESPN, ESPN2 and ESPNU. No. 4 Virginia vs Marquette is Wednesday, Nov 25 at noon ET on ESPN, and Virginia vs Xavier is Friday, Nov 27 at 11 a.m. ET on ESPN2. Friday's Marquette vs Texas A&M (5 p.m. ET) and Penn State vs Mississippi State (7:30 p.m. ET) games are on SEC Network."
   - q: "What channel is Villanova vs Kansas on?"
     a: "Villanova at No. 11 Kansas is Friday, Nov 27 at 5 p.m. ET on ESPN2, at Allen Fieldhouse."
   - q: "What channel is Vanderbilt vs Ohio State on?"
@@ -66,10 +66,12 @@ All times are Eastern Standard Time. This lists every men's Division I game ESPN
 | Thu, Nov 26 | 7:00 p.m. | SMU vs No. 25 LSU (Acrisure Series, Palm Springs) | CBS Sports Network |
 | Fri, Nov 27 | 11:00 a.m. | No. 4 Virginia vs Xavier (Battle 4 Atlantis - Signature Series, Nassau) | ESPN2 |
 | Fri, Nov 27 | 2:00 p.m. | Southern at No. 15 Vanderbilt | SEC Network+ (ESPN app) |
+| Fri, Nov 27 | 5:00 p.m. | Marquette vs Texas A&M (Battle 4 Atlantis - Signature Series, Nassau) | SEC Network |
 | Fri, Nov 27 | 5:00 p.m. | Villanova at No. 11 Kansas | ESPN2 |
 | Fri, Nov 27 | 6:00 p.m. | Western Kentucky at No. 10 Illinois | FS1 |
 | Fri, Nov 27 | 7:00 p.m. | West Virginia vs North Carolina (Dick Vitale Invitational pres. by Belk, Charlotte) | ESPN |
 | Fri, Nov 27 | 7:30 p.m. | Oakland at No. 8 Houston | CBS Sports Network |
+| Fri, Nov 27 | 7:30 p.m. | Penn State vs Mississippi State (Battle 4 Atlantis - Championship Bracket, Nassau) | SEC Network |
 | Fri, Nov 27 | 9:00 p.m. | Wichita State at Kentucky | ESPN2 |
 | Sun, Nov 29 | 1:00 p.m. | Memphis vs Dayton (A10/American Showcase, Columbus) | ESPN |
 | Sun, Nov 29 | 2:00 p.m. | UL Monroe at Tulane | ESPN2 |
@@ -81,7 +83,7 @@ All times are Eastern Standard Time. This lists every men's Division I game ESPN
 
 ## Players Era 16: the rest of the bracket
 
-The Players Era 16 is split between two Las Vegas arenas: Bracket 1 (Miami, TCU, Creighton, Michigan, Baylor, Alabama, Gonzaga, Kansas State) at T-Mobile Arena and Bracket 2 (Tennessee, Maryland, San Diego State, Iowa State, Texas Tech, Louisville, Oregon, St. John's) at Michelob ULTRA Arena. Tuesday's first round sent Tennessee, TCU, Creighton, Iowa State, Louisville, Baylor and St. John's to the semifinals; Gonzaga vs Kansas State finished after midnight. Every remaining game is on an ESPN network, per the official schedule posted by Mandalay Bay with matchups from ESPN's listings:
+The Players Era 16 is split between two Las Vegas arenas: Bracket 1 (Miami, TCU, Creighton, Michigan, Baylor, Alabama, Gonzaga, Kansas State) at T-Mobile Arena and Bracket 2 (Tennessee, Maryland, San Diego State, Iowa State, Texas Tech, Louisville, Oregon, St. John's) at Michelob ULTRA Arena. Tuesday's first round sent Tennessee, TCU, Creighton, Iowa State, Louisville, Baylor and St. John's to the semifinals; Gonzaga beat Kansas State in the late game to join them. Every remaining game is on an ESPN network, per the official schedule posted by Mandalay Bay with matchups from ESPN's listings:
 
 | Date | Time (ET) | Matchup (round, arena) | TV |
 |---|---|---|---|
@@ -90,8 +92,8 @@ The Players Era 16 is split between two Las Vegas arenas: Bracket 1 (Miami, TCU,
 | Thu, Nov 26 | 3:30 p.m. | Miami vs Michigan (consolation, T-Mobile) | ESPN2 |
 | Thu, Nov 26 | 6:00 p.m. | TCU vs Creighton (semifinal, T-Mobile) | ESPN |
 | Thu, Nov 26 | 9:00 p.m. | St. John's vs Louisville (semifinal, Michelob ULTRA) | ESPN2 |
-| Thu, Nov 26 | 9:00 p.m. | Alabama vs Gonzaga/Kansas State loser (consolation, T-Mobile) | ESPNU |
-| Thu, Nov 26 | 11:30 p.m. | Baylor vs Gonzaga/Kansas State winner (semifinal, T-Mobile) | ESPN |
+| Thu, Nov 26 | 9:00 p.m. | Alabama vs Kansas State (consolation, T-Mobile) | ESPNU |
+| Thu, Nov 26 | 11:30 p.m. | Baylor vs Gonzaga (semifinal, T-Mobile) | ESPN |
 | Thu, Nov 26 | 11:30 p.m. | Texas Tech vs Oregon (consolation, Michelob ULTRA) | ESPN2 |
 | Fri, Nov 27 | 1:00 p.m. | Bracket 2 third-place game (Michelob ULTRA) | ESPN2 |
 | Fri, Nov 27 | 3:00 p.m. | Bracket 1 third-place game (T-Mobile) | ESPN2 |
@@ -107,7 +109,7 @@ Our [Thanksgiving Day sports TV guide](/guides/what-sports-are-on-tv-thanksgivin
 
 ## Battle 4 Atlantis, Maui and the other Feast Week events
 
-- **Battle 4 Atlantis (Nassau, Bahamas):** The Signature Series has No. 4 Virginia, Marquette, Texas A&M and Xavier, and the Championship Bracket has Memphis, Penn State, Wake Forest and Mississippi State. Wednesday's games are on ESPN, ESPN2 and ESPNU. Friday's Championship Bracket games (1:30 and 7:30 p.m. ET) are set by Wednesday's results, with channels not yet listed.
+- **Battle 4 Atlantis (Nassau, Bahamas):** The Signature Series has No. 4 Virginia, Marquette, Texas A&M and Xavier, and the Championship Bracket has Memphis, Penn State, Wake Forest and Mississippi State. Wednesday's games are on ESPN, ESPN2 and ESPNU. On Friday, Virginia vs Xavier is at 11 a.m. ET on ESPN2, Marquette vs Texas A&M at 5:00 p.m. on SEC Network and Penn State vs Mississippi State at 7:30 p.m. on SEC Network. ESPN still had no channel for Wake Forest vs Memphis (1:30 p.m. ET) on Thanksgiving morning.
 - **Maui Invitational (Lahaina):** Monday's first round is in our [Nov 17-23 schedule](/guides/college-basketball-tv-schedule-nov-17-23-2026-illinois-duke-players-era-what-channel/). ESPN now lists Tuesday's second round: Ole Miss vs BYU (2:30 p.m. ET, ESPN2), Providence vs Arizona (5:00 p.m., ESPN2), Clemson vs Washington (8:00 p.m., ESPNU) and VCU vs Colorado State (10:30 p.m., ESPNU). Wednesday's placement games are the championship at 2:30 p.m. ET on ESPN, the third-place game at 5:30 p.m. on ESPN2, the fifth-place game at 10:00 p.m. on ESPN2 and the seventh-place game at 12:30 a.m. ET Thursday on ESPN2.
 - **ESPN Events Invitational (Kissimmee):** The Adventure Bracket is on ESPN2 and ESPNU on Nov 24-25, and Georgia vs Cincinnati (ESPN) and Boston College vs UCF (ESPN2) open the Magic Bracket on Thanksgiving.
 - **Rady Children's Invitational (San Diego):** No. 6 Texas vs Georgetown and No. 7 UCLA vs Saint Mary's are on FS1 on Thanksgiving. Friday's championship and consolation games are set by those results.

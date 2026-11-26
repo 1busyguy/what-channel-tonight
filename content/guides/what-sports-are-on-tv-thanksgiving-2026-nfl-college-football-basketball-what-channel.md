@@ -47,16 +47,16 @@ All times Eastern. Rankings are as listed by ESPN.
 | **8:00 p.m.** | **College football** | **TCU at No. 12 Texas Tech** | **ESPN** |
 | **8:20 p.m.** | **NFL** | **[Chiefs](/nfl/kansas-city-chiefs/) at [Bills](/nfl/buffalo-bills/)** | **NBC / Peacock** |
 | 9:00 p.m. | College basketball | St. John's vs Louisville (Players Era 16 semifinal) | ESPN2 |
-| 9:00 p.m. | College basketball | Alabama vs Gonzaga/Kansas State loser (Players Era 16) | ESPNU |
+| 9:00 p.m. | College basketball | Alabama vs Kansas State (Players Era 16) | ESPNU |
 | 10:30 p.m. | College basketball | Pacific vs Omaha (Resorts World Classic, Las Vegas) | FloSports |
-| 11:30 p.m. | College basketball | Baylor vs Gonzaga/Kansas State winner (Players Era 16 semifinal) | ESPN |
+| 11:30 p.m. | College basketball | Baylor vs No. 22 Gonzaga (Players Era 16 semifinal) | ESPN |
 | 11:30 p.m. | College basketball | Texas Tech vs Oregon (Players Era 16) | ESPN2 |
 
 The three NFL games and TCU at Texas Tech are national broadcasts, so they're on the same channel everywhere in the US. Full details for the rest of the NFL week, including Sunday's regional games, are in our [NFL Week 12 TV schedule](/guides/nfl-week-12-2026-tv-schedule-thanksgiving-games-what-channel/).
 
 ## Players Era 16 on Thanksgiving
 
-The Players Era 16 plays **eight games on Thanksgiving Day** in Las Vegas: four bracket semifinals and four consolation games, split between T-Mobile Arena and Michelob ULTRA Arena. Every game is on an ESPN network. The semifinals are **Tennessee vs Iowa State (3:30 p.m. ET, ESPN)**, **TCU vs Creighton (6:00 p.m., ESPN)**, **St. John's vs Louisville (9:00 p.m., ESPN2)** and **Baylor vs the Gonzaga/Kansas State winner (11:30 p.m., ESPN)**. The consolation games are Maryland vs San Diego State (1:00 p.m., ESPN), Miami vs Michigan (3:30 p.m., ESPN2), Alabama vs the Gonzaga/Kansas State loser (9:00 p.m., ESPNU) and Texas Tech vs Oregon (11:30 p.m., ESPN2).
+The Players Era 16 plays **eight games on Thanksgiving Day** in Las Vegas: four bracket semifinals and four consolation games, split between T-Mobile Arena and Michelob ULTRA Arena. Every game is on an ESPN network. The semifinals are **Tennessee vs Iowa State (3:30 p.m. ET, ESPN)**, **TCU vs Creighton (6:00 p.m., ESPN)**, **St. John's vs Louisville (9:00 p.m., ESPN2)** and **Baylor vs Gonzaga (11:30 p.m., ESPN)**. The consolation games are Maryland vs San Diego State (1:00 p.m., ESPN), Miami vs Michigan (3:30 p.m., ESPN2), Alabama vs Kansas State (9:00 p.m., ESPNU) and Texas Tech vs Oregon (11:30 p.m., ESPN2).
 
 The bracket finals are Black Friday at 9:00 p.m. and 11:00 p.m. ET on ESPN, and the championship is Saturday, Nov 28 at 10:30 p.m. ET on ESPN. Our [Feast Week college basketball schedule](/guides/college-basketball-tv-schedule-nov-24-30-2026-feast-week-duke-uconn-players-era-what-channel/) has every Players Era game and channel through the final.
 
@@ -90,12 +90,14 @@ Black Friday is the busiest TV day of the weekend: one NFL game, a full college 
 | 3:30 p.m. | College football | No. 24 Florida at Florida State | ABC |
 | 3:30 p.m. | College football | Temple at Memphis | ESPN |
 | 5:00 p.m. | College basketball | Villanova at No. 11 Kansas | ESPN2 |
+| 5:00 p.m. | College basketball | Marquette vs Texas A&M (Battle 4 Atlantis) | SEC Network |
 | 5:30 p.m. | NHL | [Rangers](/nhl/new-york-rangers/) at [Blackhawks](/nhl/chicago-blackhawks/) (Thanksgiving Showdown) | TNT / truTV |
 | 6:00 p.m. | College basketball | Western Kentucky at No. 10 Illinois | FS1 |
 | 7:00 p.m. | NBA Cup | [Heat](/nba/miami-heat/) at [Knicks](/nba/new-york-knicks/) | Prime Video |
 | 7:30 p.m. | College football | No. 5 Texas at Texas A&M | ABC |
 | 7:30 p.m. | College football | Minnesota at Wisconsin | NBC |
 | 7:30 p.m. | College basketball | Oakland at No. 8 Houston | CBS Sports Network |
+| 7:30 p.m. | College basketball | Penn State vs Mississippi State (Battle 4 Atlantis) | SEC Network |
 | 8:00 p.m. | NHL | [Penguins](/nhl/pittsburgh-penguins/) at [Sabres](/nhl/buffalo-sabres/) (Thanksgiving Showdown) | TNT / truTV |
 | 9:00 p.m. | College football | West Virginia at No. 2 Utah | FOX |
 | 9:30 p.m. | NBA Cup | [Lakers](/nba/los-angeles-lakers/) at [Spurs](/nba/san-antonio-spurs/) | Prime Video |
