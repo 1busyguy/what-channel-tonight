@@ -58,7 +58,7 @@ The three NFL games and TCU at Texas Tech are national broadcasts, so they're on
 
 The Players Era 16 plays **eight games on Thanksgiving Day** in Las Vegas: four bracket semifinals and four consolation games, split between T-Mobile Arena and Michelob ULTRA Arena. Every game is on an ESPN network. The semifinals are **Tennessee vs Iowa State (3:30 p.m. ET, ESPN)**, **TCU vs Creighton (6:00 p.m., ESPN)**, **St. John's vs Louisville (9:00 p.m., ESPN2)** and **Baylor vs Gonzaga (11:30 p.m., ESPN)**. The consolation games are Maryland vs San Diego State (1:00 p.m., ESPN), Miami vs Michigan (3:30 p.m., ESPN2), Alabama vs Kansas State (9:00 p.m., ESPNU) and Texas Tech vs Oregon (11:30 p.m., ESPN2).
 
-The bracket finals are Black Friday at 9:00 p.m. and 11:00 p.m. ET on ESPN, and the championship is Saturday, Nov 28 at 10:30 p.m. ET on ESPN. Our [Feast Week college basketball schedule](/guides/college-basketball-tv-schedule-nov-24-30-2026-feast-week-duke-uconn-players-era-what-channel/) has every Players Era game and channel through the final.
+The bracket finals are Black Friday on ESPN: Tennessee vs Louisville at 9:00 p.m. ET and Creighton vs Gonzaga at 11:00 p.m. ET, and the championship is Saturday, Nov 28 at 10:30 p.m. ET on ESPN. Our [Feast Week college basketball schedule](/guides/college-basketball-tv-schedule-nov-24-30-2026-feast-week-duke-uconn-players-era-what-channel/) has every Players Era game and channel through the final.
 
 ## Thanksgiving Eve (Wednesday, Nov 25)
 
@@ -84,13 +84,17 @@ Black Friday is the busiest TV day of the weekend: one NFL game, a full college 
 | 12:00 p.m. | College football | Nebraska at No. 15 Iowa | CBS |
 | 12:00 p.m. | College football | Mississippi State at No. 25 Ole Miss (Egg Bowl) | ABC |
 | 12:00 p.m. | College football | Tulsa at UTSA | ESPN |
+| 1:00 p.m. | College basketball | St. John's vs Iowa State (Players Era 16 third-place game) | ESPN2 |
 | 1:00 p.m. | NHL | [Maple Leafs](/nhl/toronto-maple-leafs/) at [Bruins](/nhl/boston-bruins/) | NESN in the Boston area; ESPN+ elsewhere |
 | 2:00 p.m. | NHL | [Stars](/nhl/dallas-stars/) at [Blues](/nhl/st-louis-blues/) | NHL Network |
 | **3:00 p.m.** | **NFL** | **[Broncos](/nfl/denver-broncos/) at [Steelers](/nfl/pittsburgh-steelers/)** | **Prime Video** |
+| 3:00 p.m. | College basketball | TCU vs Baylor (Players Era 16 third-place game) | ESPN2 |
 | 3:30 p.m. | College football | No. 24 Florida at Florida State | ABC |
 | 3:30 p.m. | College football | Temple at Memphis | ESPN |
+| 3:30 p.m. | College basketball | Oregon vs Maryland (Players Era 16 seventh-place game) | ESPNU |
 | 5:00 p.m. | College basketball | Villanova at No. 11 Kansas | ESPN2 |
 | 5:00 p.m. | College basketball | Marquette vs Texas A&M (Battle 4 Atlantis) | SEC Network |
+| 5:30 p.m. | College basketball | Michigan vs Kansas State (Players Era 16 seventh-place game) | ESPNU |
 | 5:30 p.m. | NHL | [Rangers](/nhl/new-york-rangers/) at [Blackhawks](/nhl/chicago-blackhawks/) (Thanksgiving Showdown) | TNT / truTV |
 | 6:00 p.m. | College basketball | Western Kentucky at No. 10 Illinois | FS1 |
 | 7:00 p.m. | NBA Cup | [Heat](/nba/miami-heat/) at [Knicks](/nba/new-york-knicks/) | Prime Video |
@@ -99,8 +103,12 @@ Black Friday is the busiest TV day of the weekend: one NFL game, a full college 
 | 7:30 p.m. | College basketball | Oakland at No. 8 Houston | CBS Sports Network |
 | 7:30 p.m. | College basketball | Penn State vs Mississippi State (Battle 4 Atlantis) | SEC Network |
 | 8:00 p.m. | NHL | [Penguins](/nhl/pittsburgh-penguins/) at [Sabres](/nhl/buffalo-sabres/) (Thanksgiving Showdown) | TNT / truTV |
+| 8:30 p.m. | College basketball | Miami vs Alabama (Players Era 16 fifth-place game) | ESPNU |
+| 9:00 p.m. | College basketball | **Tennessee vs Louisville (Players Era 16 bracket final)** | ESPN |
 | 9:00 p.m. | College football | West Virginia at No. 2 Utah | FOX |
 | 9:30 p.m. | NBA Cup | [Lakers](/nba/los-angeles-lakers/) at [Spurs](/nba/san-antonio-spurs/) | Prime Video |
+| 11:00 p.m. | College basketball | **Creighton vs Gonzaga (Players Era 16 bracket final)** | ESPN |
+| 11:30 p.m. | College basketball | Texas Tech vs San Diego State (Players Era 16 fifth-place game) | ESPN2 |
 
 Friday's other college football games (Buffalo at Akron and North Dakota State at San Jose State on CBS Sports Network, Toledo at Ohio on ESPNU, App State at South Alabama on ESPN+, Air Force at New Mexico on The CW) are in our [Rivalry Week TV schedule](/guides/college-football-week-13-2026-tv-schedule-rivalry-week-black-friday-what-channel/), along with Saturday's Michigan at Ohio State (noon, FOX).
 
@@ -134,4 +142,4 @@ Lineups vary by ZIP code, so check a service's channel list for your address bef
 - [Christmas 2026 sports TV guide](/guides/what-sports-are-on-tv-christmas-2026-nba-nfl-bowl-games-what-channel/): the five NBA Christmas games, the NFL on Netflix and FOX, and Dec 24-26 bowls.
 - [Premier League Matchweek 11 TV schedule](/guides/premier-league-tv-schedule-matchweek-11-2026-liverpool-man-united-what-channel/) for the weekend before.
 
-*Schedule source: ESPN NFL, college football, men's college basketball, NBA and NHL scoreboard listings as of Nov 19, 2026, with the NHL Thanksgiving Showdown confirmed by NHL.com the Players Era format by ESPN and T-Mobile Arena, and Players Era Thanksgiving channels from the official schedule posted by Mandalay Bay and ESPN's matchups as of Nov 25. Times and channels can change, so confirm with your provider before kickoff.*
+*Schedule source: ESPN NFL, college football, men's college basketball, NBA and NHL scoreboard listings as of Nov 19, 2026, with the NHL Thanksgiving Showdown confirmed by NHL.com the Players Era format by ESPN and T-Mobile Arena, and Players Era Thanksgiving channels from the official schedule posted by Mandalay Bay and ESPN's matchups as of Nov 25, with Black Friday Players Era matchups from ESPN as of Nov 27. Times and channels can change, so confirm with your provider before kickoff.*
