@@ -11,7 +11,7 @@ faq:
   - q: "When and where is the 2026 NBA Cup final?"
     a: "The championship is Friday, Dec. 11 at Hinkle Fieldhouse in Indianapolis, Butler's arena. It's the first NBA Cup final away from Las Vegas. ESPN's schedule lists the championship on Prime Video."
   - q: "When are the NBA Cup quarterfinals and semifinals?"
-    a: "Quarterfinals are Friday, Dec. 4 and Saturday, Dec. 5, and semifinals are Dec. 8 and/or Dec. 9, both at the higher seed's home arena. ESPN's schedule lists all four quarterfinals on Prime Video; semifinal TV hasn't been listed yet."
+    a: "Quarterfinals are Friday, Dec. 4 and Saturday, Dec. 5, and semifinals are Dec. 8 and/or Dec. 9, both at the higher seed's home arena. ESPN's schedule lists all four quarterfinals on Prime Video; ESPN now lists the semifinals on Prime Video too. The quarterfinal matchups are 76ers at Hawks and Spurs at Mavericks (Dec. 4) and Celtics at Pistons and Grizzlies at Trail Blazers (Dec. 5)."
   - q: "Can I watch NBA Cup games on League Pass?"
     a: "Yes for games that are only on local TV, as long as you live outside both teams' home markets. Local games are blacked out on League Pass in the teams' markets, so fans there watch on the team's local channel or team stream instead. Games on Prime Video, NBC, Peacock and ESPN are national broadcasts."
   - q: "Who won the last NBA Cup?"
@@ -123,10 +123,10 @@ Group play opened on Friday, Oct. 30. These are the 50 group games still to come
 | Round | Date | Where | TV |
 |---|---|---|---|
 | Quarterfinals (4 games) | Fri, Dec 4 and Sat, Dec 5 | Higher seed's home arena | Prime Video |
-| Semifinals | Tue, Dec 8 and/or Wed, Dec 9 | Higher seed's home arena | Not listed yet |
+| Semifinals | Tue, Dec 8 and/or Wed, Dec 9 | Higher seed's home arena | Prime Video (per ESPN) |
 | Championship | Fri, Dec 11 | Hinkle Fieldhouse, Indianapolis | Prime Video |
 
-Matchups and tip times are set once group play ends on Nov. 27. This is the first year the semifinals aren't in Las Vegas and the final is at a college arena. The championship doesn't count in the regular-season standings, but every other Cup game does.
+**Update (Nov. 28):** the quarterfinals are set: 76ers at Hawks and Spurs at Mavericks on Friday, Dec. 4, and Celtics at Pistons and Grizzlies at Trail Blazers on Saturday, Dec. 5, all on Prime Video. See our [NBA Cup knockout rounds TV schedule](/guides/nba-cup-2026-knockout-rounds-tv-schedule-quarterfinals-celtics-pistons-what-channel/) for tip times and the semifinal bracket. This is the first year the semifinals aren't in Las Vegas and the final is at a college arena. The championship doesn't count in the regular-season standings, but every other Cup game does.
 
 ## Why your Cup game might not be on national TV
 
